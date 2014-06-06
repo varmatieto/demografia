@@ -1,0 +1,4093 @@
+ETA;SESSO;REGIONE DI NASCITA;RESIDENTI;;
+35;F;ESTERO;1;;
+0;F;ESTERO;19;;
+1;F;ESTERO;63;;
+2;F;ESTERO;76;;
+3;F;ESTERO;102;;
+4;F;ESTERO;157;;
+5;F;ESTERO;174;;
+6;F;ESTERO;199;;
+7;F;ESTERO;241;;
+8;F;ESTERO;253;;
+9;F;ESTERO;289;;
+10;F;ESTERO;357;;
+11;F;ESTERO;441;;
+12;F;ESTERO;461;;
+13;F;ESTERO;571;;
+14;F;ESTERO;571
+15;F;ESTERO;489
+16;F;ESTERO;580
+17;F;ESTERO;584
+18;F;ESTERO;626
+19;F;ESTERO;673
+20;F;ESTERO;728
+21;F;ESTERO;886
+22;F;ESTERO;1001
+23;F;ESTERO;1195
+24;F;ESTERO;1387
+25;F;ESTERO;1493
+26;F;ESTERO;1559
+27;F;ESTERO;1691
+28;F;ESTERO;1787
+29;F;ESTERO;1897
+30;F;ESTERO;1937
+31;F;ESTERO;2069
+32;F;ESTERO;2070
+33;F;ESTERO;2134
+34;F;ESTERO;2055
+35;F;ESTERO;2123
+36;F;ESTERO;2124
+37;F;ESTERO;2043
+38;F;ESTERO;1924
+39;F;ESTERO;1926
+40;F;ESTERO;1917
+41;F;ESTERO;1925
+42;F;ESTERO;1824
+43;F;ESTERO;1844
+44;F;ESTERO;1844
+45;F;ESTERO;1412
+46;F;ESTERO;1425
+47;F;ESTERO;1386
+48;F;ESTERO;1402
+49;F;ESTERO;1278
+50;F;ESTERO;1168
+51;F;ESTERO;1195
+52;F;ESTERO;1147
+53;F;ESTERO;997
+54;F;ESTERO;913
+55;F;ESTERO;894
+56;F;ESTERO;736
+57;F;ESTERO;744
+58;F;ESTERO;687
+59;F;ESTERO;592
+60;F;ESTERO;498
+61;F;ESTERO;546
+62;F;ESTERO;448
+63;F;ESTERO;389
+64;F;ESTERO;333
+65;F;ESTERO;320
+66;F;ESTERO;275
+67;F;ESTERO;313
+68;F;ESTERO;313
+69;F;ESTERO;335
+70;F;ESTERO;284
+71;F;ESTERO;345
+72;F;ESTERO;306
+73;F;ESTERO;300
+74;F;ESTERO;283
+75;F;ESTERO;266
+76;F;ESTERO;227
+77;F;ESTERO;244
+78;F;ESTERO;218
+79;F;ESTERO;206
+80;F;ESTERO;204
+81;F;ESTERO;206
+82;F;ESTERO;153
+83;F;ESTERO;173
+84;F;ESTERO;139
+85;F;ESTERO;132
+86;F;ESTERO;159
+87;F;ESTERO;102
+88;F;ESTERO;95
+89;F;ESTERO;95
+90;F;ESTERO;76
+91;F;ESTERO;62
+92;F;ESTERO;39
+93;F;ESTERO;24
+94;F;ESTERO;23
+95;F;ESTERO;11
+96;F;ESTERO;13
+97;F;ESTERO;13
+98;F;ESTERO;15
+99;F;ESTERO;7
+100;F;ESTERO;3
+101;F;ESTERO;10
+102;F;ESTERO;1
+103;F;ESTERO;2
+106;F;ESTERO;2
+0;M;ESTERO;26
+1;M;ESTERO;64
+2;M;ESTERO;102
+3;M;ESTERO;133
+4;M;ESTERO;147
+5;M;ESTERO;199
+6;M;ESTERO;222
+7;M;ESTERO;267
+8;M;ESTERO;255
+9;M;ESTERO;306
+10;M;ESTERO;366
+11;M;ESTERO;452
+12;M;ESTERO;482
+13;M;ESTERO;585
+14;M;ESTERO;550
+15;M;ESTERO;567
+16;M;ESTERO;597
+17;M;ESTERO;733
+18;M;ESTERO;688
+19;M;ESTERO;802
+20;M;ESTERO;828
+21;M;ESTERO;944
+22;M;ESTERO;1071
+23;M;ESTERO;1171
+24;M;ESTERO;1274
+25;M;ESTERO;1410
+26;M;ESTERO;1417
+27;M;ESTERO;1467
+28;M;ESTERO;1604
+29;M;ESTERO;1685
+30;M;ESTERO;1739
+31;M;ESTERO;1927
+32;M;ESTERO;1937
+33;M;ESTERO;2007
+34;M;ESTERO;1901
+35;M;ESTERO;1939
+36;M;ESTERO;1906
+37;M;ESTERO;1920
+38;M;ESTERO;1748
+39;M;ESTERO;1822
+40;M;ESTERO;1673
+41;M;ESTERO;1839
+42;M;ESTERO;1722
+43;M;ESTERO;1773
+44;M;ESTERO;1639
+45;M;ESTERO;1424
+46;M;ESTERO;1358
+47;M;ESTERO;1232
+48;M;ESTERO;1221
+49;M;ESTERO;1138
+50;M;ESTERO;1056
+51;M;ESTERO;1016
+52;M;ESTERO;929
+53;M;ESTERO;845
+54;M;ESTERO;704
+55;M;ESTERO;685
+56;M;ESTERO;628
+57;M;ESTERO;495
+58;M;ESTERO;417
+59;M;ESTERO;361
+60;M;ESTERO;342
+61;M;ESTERO;342
+62;M;ESTERO;268
+63;M;ESTERO;241
+64;M;ESTERO;227
+65;M;ESTERO;210
+66;M;ESTERO;177
+67;M;ESTERO;156
+68;M;ESTERO;177
+69;M;ESTERO;173
+70;M;ESTERO;169
+71;M;ESTERO;227
+72;M;ESTERO;212
+73;M;ESTERO;189
+74;M;ESTERO;164
+75;M;ESTERO;166
+76;M;ESTERO;166
+77;M;ESTERO;140
+78;M;ESTERO;141
+79;M;ESTERO;140
+80;M;ESTERO;133
+81;M;ESTERO;126
+82;M;ESTERO;105
+83;M;ESTERO;82
+84;M;ESTERO;71
+85;M;ESTERO;65
+86;M;ESTERO;59
+87;M;ESTERO;37
+88;M;ESTERO;40
+89;M;ESTERO;32
+90;M;ESTERO;27
+91;M;ESTERO;27
+92;M;ESTERO;10
+93;M;ESTERO;7
+94;M;ESTERO;4
+95;M;ESTERO;3
+96;M;ESTERO;7
+97;M;ESTERO;4
+99;M;ESTERO;3
+100;M;ESTERO;1
+101;M;ESTERO;1
+104;M;ESTERO;1
+0;F;Piemonte                    ;3637
+1;F;Piemonte                    ;3715
+2;F;Piemonte                    ;3769
+3;F;Piemonte                    ;3692
+4;F;Piemonte                    ;3549
+5;F;Piemonte                    ;3407
+6;F;Piemonte                    ;3305
+7;F;Piemonte                    ;3127
+8;F;Piemonte                    ;3218
+9;F;Piemonte                    ;3073
+10;F;Piemonte                    ;3001
+11;F;Piemonte                    ;2913
+12;F;Piemonte                    ;2725
+13;F;Piemonte                    ;2759
+14;F;Piemonte                    ;2679
+15;F;Piemonte                    ;2655
+16;F;Piemonte                    ;2530
+17;F;Piemonte                    ;2543
+18;F;Piemonte                    ;2623
+19;F;Piemonte                    ;2607
+20;F;Piemonte                    ;2638
+21;F;Piemonte                    ;2725
+22;F;Piemonte                    ;2680
+23;F;Piemonte                    ;2559
+24;F;Piemonte                    ;2579
+25;F;Piemonte                    ;2599
+26;F;Piemonte                    ;2691
+27;F;Piemonte                    ;2682
+28;F;Piemonte                    ;2742
+29;F;Piemonte                    ;2902
+30;F;Piemonte                    ;2855
+31;F;Piemonte                    ;2884
+32;F;Piemonte                    ;3029
+33;F;Piemonte                    ;3283
+34;F;Piemonte                    ;3624
+35;F;Piemonte                    ;3766
+36;F;Piemonte                    ;4035
+37;F;Piemonte                    ;4350
+38;F;Piemonte                    ;4380
+39;F;Piemonte                    ;4382
+40;F;Piemonte                    ;4549
+41;F;Piemonte                    ;4434
+42;F;Piemonte                    ;4472
+43;F;Piemonte                    ;4358
+44;F;Piemonte                    ;4179
+45;F;Piemonte                    ;4278
+46;F;Piemonte                    ;3997
+47;F;Piemonte                    ;4209
+48;F;Piemonte                    ;3849
+49;F;Piemonte                    ;3558
+50;F;Piemonte                    ;3319
+51;F;Piemonte                    ;2923
+52;F;Piemonte                    ;2803
+53;F;Piemonte                    ;2715
+54;F;Piemonte                    ;2737
+55;F;Piemonte                    ;2483
+56;F;Piemonte                    ;2267
+57;F;Piemonte                    ;2147
+58;F;Piemonte                    ;2079
+59;F;Piemonte                    ;2077
+60;F;Piemonte                    ;2004
+61;F;Piemonte                    ;2052
+62;F;Piemonte                    ;2038
+63;F;Piemonte                    ;2246
+64;F;Piemonte                    ;2415
+65;F;Piemonte                    ;2552
+66;F;Piemonte                    ;1735
+67;F;Piemonte                    ;2081
+68;F;Piemonte                    ;1996
+69;F;Piemonte                    ;2289
+70;F;Piemonte                    ;2440
+71;F;Piemonte                    ;2589
+72;F;Piemonte                    ;2783
+73;F;Piemonte                    ;2843
+74;F;Piemonte                    ;2601
+75;F;Piemonte                    ;2469
+76;F;Piemonte                    ;2546
+77;F;Piemonte                    ;2393
+78;F;Piemonte                    ;2239
+79;F;Piemonte                    ;2354
+80;F;Piemonte                    ;2452
+81;F;Piemonte                    ;2520
+82;F;Piemonte                    ;2191
+83;F;Piemonte                    ;2000
+84;F;Piemonte                    ;1849
+85;F;Piemonte                    ;1611
+86;F;Piemonte                    ;1436
+87;F;Piemonte                    ;1253
+88;F;Piemonte                    ;1171
+89;F;Piemonte                    ;1089
+90;F;Piemonte                    ;1006
+91;F;Piemonte                    ;743
+92;F;Piemonte                    ;383
+93;F;Piemonte                    ;255
+94;F;Piemonte                    ;242
+95;F;Piemonte                    ;222
+96;F;Piemonte                    ;208
+97;F;Piemonte                    ;153
+98;F;Piemonte                    ;117
+99;F;Piemonte                    ;90
+100;F;Piemonte                    ;55
+101;F;Piemonte                    ;37
+102;F;Piemonte                    ;9
+103;F;Piemonte                    ;9
+104;F;Piemonte                    ;6
+105;F;Piemonte                    ;3
+107;F;Piemonte                    ;1
+108;F;Piemonte                    ;1
+0;M;Piemonte                    ;3814
+1;M;Piemonte                    ;3989
+2;M;Piemonte                    ;4068
+3;M;Piemonte                    ;3919
+4;M;Piemonte                    ;3807
+5;M;Piemonte                    ;3639
+6;M;Piemonte                    ;3563
+7;M;Piemonte                    ;3427
+8;M;Piemonte                    ;3302
+9;M;Piemonte                    ;3242
+10;M;Piemonte                    ;3074
+11;M;Piemonte                    ;3127
+12;M;Piemonte                    ;3029
+13;M;Piemonte                    ;2820
+14;M;Piemonte                    ;2764
+15;M;Piemonte                    ;2717
+16;M;Piemonte                    ;2737
+17;M;Piemonte                    ;2721
+18;M;Piemonte                    ;2745
+19;M;Piemonte                    ;2866
+20;M;Piemonte                    ;2779
+21;M;Piemonte                    ;2823
+22;M;Piemonte                    ;2777
+23;M;Piemonte                    ;2875
+24;M;Piemonte                    ;2616
+25;M;Piemonte                    ;2762
+26;M;Piemonte                    ;2826
+27;M;Piemonte                    ;2791
+28;M;Piemonte                    ;2976
+29;M;Piemonte                    ;3038
+30;M;Piemonte                    ;2922
+31;M;Piemonte                    ;2980
+32;M;Piemonte                    ;3253
+33;M;Piemonte                    ;3485
+34;M;Piemonte                    ;3681
+35;M;Piemonte                    ;3939
+36;M;Piemonte                    ;4333
+37;M;Piemonte                    ;4643
+38;M;Piemonte                    ;4625
+39;M;Piemonte                    ;4668
+40;M;Piemonte                    ;4769
+41;M;Piemonte                    ;4495
+42;M;Piemonte                    ;4494
+43;M;Piemonte                    ;4356
+44;M;Piemonte                    ;4159
+45;M;Piemonte                    ;4151
+46;M;Piemonte                    ;4054
+47;M;Piemonte                    ;4143
+48;M;Piemonte                    ;3844
+49;M;Piemonte                    ;3389
+50;M;Piemonte                    ;3163
+51;M;Piemonte                    ;2879
+52;M;Piemonte                    ;2757
+53;M;Piemonte                    ;2657
+54;M;Piemonte                    ;2555
+55;M;Piemonte                    ;2394
+56;M;Piemonte                    ;2146
+57;M;Piemonte                    ;2057
+58;M;Piemonte                    ;1902
+59;M;Piemonte                    ;1854
+60;M;Piemonte                    ;1783
+61;M;Piemonte                    ;1792
+62;M;Piemonte                    ;1787
+63;M;Piemonte                    ;2035
+64;M;Piemonte                    ;2110
+65;M;Piemonte                    ;2168
+66;M;Piemonte                    ;1486
+67;M;Piemonte                    ;1767
+68;M;Piemonte                    ;1654
+69;M;Piemonte                    ;1918
+70;M;Piemonte                    ;1894
+71;M;Piemonte                    ;2063
+72;M;Piemonte                    ;2182
+73;M;Piemonte                    ;2225
+74;M;Piemonte                    ;1941
+75;M;Piemonte                    ;1719
+76;M;Piemonte                    ;1776
+77;M;Piemonte                    ;1553
+78;M;Piemonte                    ;1508
+79;M;Piemonte                    ;1544
+80;M;Piemonte                    ;1442
+81;M;Piemonte                    ;1517
+82;M;Piemonte                    ;1293
+83;M;Piemonte                    ;1118
+84;M;Piemonte                    ;994
+85;M;Piemonte                    ;824
+86;M;Piemonte                    ;620
+87;M;Piemonte                    ;553
+88;M;Piemonte                    ;499
+89;M;Piemonte                    ;401
+90;M;Piemonte                    ;373
+91;M;Piemonte                    ;264
+92;M;Piemonte                    ;107
+93;M;Piemonte                    ;77
+94;M;Piemonte                    ;59
+95;M;Piemonte                    ;50
+96;M;Piemonte                    ;47
+97;M;Piemonte                    ;33
+98;M;Piemonte                    ;32
+99;M;Piemonte                    ;9
+100;M;Piemonte                    ;8
+101;M;Piemonte                    ;1
+103;M;Piemonte                    ;2
+104;M;Piemonte                    ;1
+1;F;Valle D'Aosta/Vallee D'Aoste;3
+3;F;Valle D'Aosta/Vallee D'Aoste;2
+4;F;Valle D'Aosta/Vallee D'Aoste;2
+5;F;Valle D'Aosta/Vallee D'Aoste;3
+6;F;Valle D'Aosta/Vallee D'Aoste;2
+7;F;Valle D'Aosta/Vallee D'Aoste;1
+8;F;Valle D'Aosta/Vallee D'Aoste;2
+10;F;Valle D'Aosta/Vallee D'Aoste;1
+12;F;Valle D'Aosta/Vallee D'Aoste;3
+13;F;Valle D'Aosta/Vallee D'Aoste;1
+14;F;Valle D'Aosta/Vallee D'Aoste;1
+15;F;Valle D'Aosta/Vallee D'Aoste;2
+16;F;Valle D'Aosta/Vallee D'Aoste;1
+19;F;Valle D'Aosta/Vallee D'Aoste;1
+20;F;Valle D'Aosta/Vallee D'Aoste;5
+21;F;Valle D'Aosta/Vallee D'Aoste;2
+22;F;Valle D'Aosta/Vallee D'Aoste;1
+23;F;Valle D'Aosta/Vallee D'Aoste;5
+24;F;Valle D'Aosta/Vallee D'Aoste;7
+25;F;Valle D'Aosta/Vallee D'Aoste;2
+26;F;Valle D'Aosta/Vallee D'Aoste;2
+27;F;Valle D'Aosta/Vallee D'Aoste;1
+28;F;Valle D'Aosta/Vallee D'Aoste;2
+29;F;Valle D'Aosta/Vallee D'Aoste;4
+30;F;Valle D'Aosta/Vallee D'Aoste;8
+31;F;Valle D'Aosta/Vallee D'Aoste;2
+32;F;Valle D'Aosta/Vallee D'Aoste;4
+33;F;Valle D'Aosta/Vallee D'Aoste;4
+34;F;Valle D'Aosta/Vallee D'Aoste;4
+35;F;Valle D'Aosta/Vallee D'Aoste;5
+36;F;Valle D'Aosta/Vallee D'Aoste;4
+37;F;Valle D'Aosta/Vallee D'Aoste;9
+38;F;Valle D'Aosta/Vallee D'Aoste;10
+39;F;Valle D'Aosta/Vallee D'Aoste;5
+40;F;Valle D'Aosta/Vallee D'Aoste;13
+41;F;Valle D'Aosta/Vallee D'Aoste;5
+42;F;Valle D'Aosta/Vallee D'Aoste;7
+43;F;Valle D'Aosta/Vallee D'Aoste;4
+44;F;Valle D'Aosta/Vallee D'Aoste;10
+45;F;Valle D'Aosta/Vallee D'Aoste;9
+46;F;Valle D'Aosta/Vallee D'Aoste;9
+47;F;Valle D'Aosta/Vallee D'Aoste;3
+48;F;Valle D'Aosta/Vallee D'Aoste;10
+49;F;Valle D'Aosta/Vallee D'Aoste;7
+50;F;Valle D'Aosta/Vallee D'Aoste;6
+51;F;Valle D'Aosta/Vallee D'Aoste;8
+52;F;Valle D'Aosta/Vallee D'Aoste;9
+53;F;Valle D'Aosta/Vallee D'Aoste;6
+54;F;Valle D'Aosta/Vallee D'Aoste;2
+55;F;Valle D'Aosta/Vallee D'Aoste;9
+56;F;Valle D'Aosta/Vallee D'Aoste;8
+57;F;Valle D'Aosta/Vallee D'Aoste;15
+58;F;Valle D'Aosta/Vallee D'Aoste;13
+59;F;Valle D'Aosta/Vallee D'Aoste;7
+60;F;Valle D'Aosta/Vallee D'Aoste;7
+61;F;Valle D'Aosta/Vallee D'Aoste;9
+62;F;Valle D'Aosta/Vallee D'Aoste;17
+63;F;Valle D'Aosta/Vallee D'Aoste;7
+64;F;Valle D'Aosta/Vallee D'Aoste;15
+65;F;Valle D'Aosta/Vallee D'Aoste;14
+66;F;Valle D'Aosta/Vallee D'Aoste;20
+67;F;Valle D'Aosta/Vallee D'Aoste;27
+68;F;Valle D'Aosta/Vallee D'Aoste;15
+69;F;Valle D'Aosta/Vallee D'Aoste;19
+70;F;Valle D'Aosta/Vallee D'Aoste;17
+71;F;Valle D'Aosta/Vallee D'Aoste;20
+72;F;Valle D'Aosta/Vallee D'Aoste;18
+73;F;Valle D'Aosta/Vallee D'Aoste;18
+74;F;Valle D'Aosta/Vallee D'Aoste;19
+75;F;Valle D'Aosta/Vallee D'Aoste;11
+76;F;Valle D'Aosta/Vallee D'Aoste;12
+77;F;Valle D'Aosta/Vallee D'Aoste;11
+78;F;Valle D'Aosta/Vallee D'Aoste;9
+79;F;Valle D'Aosta/Vallee D'Aoste;10
+80;F;Valle D'Aosta/Vallee D'Aoste;9
+81;F;Valle D'Aosta/Vallee D'Aoste;9
+82;F;Valle D'Aosta/Vallee D'Aoste;11
+83;F;Valle D'Aosta/Vallee D'Aoste;8
+84;F;Valle D'Aosta/Vallee D'Aoste;9
+85;F;Valle D'Aosta/Vallee D'Aoste;4
+86;F;Valle D'Aosta/Vallee D'Aoste;4
+87;F;Valle D'Aosta/Vallee D'Aoste;5
+88;F;Valle D'Aosta/Vallee D'Aoste;4
+89;F;Valle D'Aosta/Vallee D'Aoste;4
+90;F;Valle D'Aosta/Vallee D'Aoste;11
+91;F;Valle D'Aosta/Vallee D'Aoste;1
+92;F;Valle D'Aosta/Vallee D'Aoste;4
+93;F;Valle D'Aosta/Vallee D'Aoste;2
+97;F;Valle D'Aosta/Vallee D'Aoste;2
+1;M;Valle D'Aosta/Vallee D'Aoste;3
+2;M;Valle D'Aosta/Vallee D'Aoste;1
+3;M;Valle D'Aosta/Vallee D'Aoste;2
+4;M;Valle D'Aosta/Vallee D'Aoste;2
+5;M;Valle D'Aosta/Vallee D'Aoste;3
+6;M;Valle D'Aosta/Vallee D'Aoste;2
+7;M;Valle D'Aosta/Vallee D'Aoste;3
+8;M;Valle D'Aosta/Vallee D'Aoste;3
+9;M;Valle D'Aosta/Vallee D'Aoste;3
+11;M;Valle D'Aosta/Vallee D'Aoste;3
+13;M;Valle D'Aosta/Vallee D'Aoste;1
+14;M;Valle D'Aosta/Vallee D'Aoste;1
+15;M;Valle D'Aosta/Vallee D'Aoste;4
+16;M;Valle D'Aosta/Vallee D'Aoste;2
+17;M;Valle D'Aosta/Vallee D'Aoste;2
+19;M;Valle D'Aosta/Vallee D'Aoste;2
+20;M;Valle D'Aosta/Vallee D'Aoste;1
+21;M;Valle D'Aosta/Vallee D'Aoste;2
+22;M;Valle D'Aosta/Vallee D'Aoste;2
+23;M;Valle D'Aosta/Vallee D'Aoste;3
+24;M;Valle D'Aosta/Vallee D'Aoste;2
+25;M;Valle D'Aosta/Vallee D'Aoste;3
+26;M;Valle D'Aosta/Vallee D'Aoste;1
+27;M;Valle D'Aosta/Vallee D'Aoste;3
+28;M;Valle D'Aosta/Vallee D'Aoste;5
+29;M;Valle D'Aosta/Vallee D'Aoste;6
+30;M;Valle D'Aosta/Vallee D'Aoste;4
+31;M;Valle D'Aosta/Vallee D'Aoste;4
+32;M;Valle D'Aosta/Vallee D'Aoste;3
+33;M;Valle D'Aosta/Vallee D'Aoste;2
+34;M;Valle D'Aosta/Vallee D'Aoste;3
+35;M;Valle D'Aosta/Vallee D'Aoste;2
+36;M;Valle D'Aosta/Vallee D'Aoste;7
+37;M;Valle D'Aosta/Vallee D'Aoste;8
+38;M;Valle D'Aosta/Vallee D'Aoste;6
+39;M;Valle D'Aosta/Vallee D'Aoste;8
+40;M;Valle D'Aosta/Vallee D'Aoste;2
+41;M;Valle D'Aosta/Vallee D'Aoste;9
+42;M;Valle D'Aosta/Vallee D'Aoste;9
+43;M;Valle D'Aosta/Vallee D'Aoste;7
+44;M;Valle D'Aosta/Vallee D'Aoste;3
+45;M;Valle D'Aosta/Vallee D'Aoste;8
+46;M;Valle D'Aosta/Vallee D'Aoste;2
+47;M;Valle D'Aosta/Vallee D'Aoste;9
+48;M;Valle D'Aosta/Vallee D'Aoste;9
+49;M;Valle D'Aosta/Vallee D'Aoste;8
+50;M;Valle D'Aosta/Vallee D'Aoste;5
+51;M;Valle D'Aosta/Vallee D'Aoste;3
+52;M;Valle D'Aosta/Vallee D'Aoste;10
+53;M;Valle D'Aosta/Vallee D'Aoste;2
+54;M;Valle D'Aosta/Vallee D'Aoste;8
+55;M;Valle D'Aosta/Vallee D'Aoste;8
+56;M;Valle D'Aosta/Vallee D'Aoste;4
+57;M;Valle D'Aosta/Vallee D'Aoste;6
+58;M;Valle D'Aosta/Vallee D'Aoste;8
+59;M;Valle D'Aosta/Vallee D'Aoste;11
+60;M;Valle D'Aosta/Vallee D'Aoste;9
+61;M;Valle D'Aosta/Vallee D'Aoste;8
+62;M;Valle D'Aosta/Vallee D'Aoste;7
+63;M;Valle D'Aosta/Vallee D'Aoste;8
+64;M;Valle D'Aosta/Vallee D'Aoste;6
+65;M;Valle D'Aosta/Vallee D'Aoste;9
+66;M;Valle D'Aosta/Vallee D'Aoste;7
+67;M;Valle D'Aosta/Vallee D'Aoste;11
+68;M;Valle D'Aosta/Vallee D'Aoste;13
+69;M;Valle D'Aosta/Vallee D'Aoste;15
+70;M;Valle D'Aosta/Vallee D'Aoste;5
+71;M;Valle D'Aosta/Vallee D'Aoste;8
+72;M;Valle D'Aosta/Vallee D'Aoste;10
+73;M;Valle D'Aosta/Vallee D'Aoste;8
+74;M;Valle D'Aosta/Vallee D'Aoste;6
+75;M;Valle D'Aosta/Vallee D'Aoste;7
+76;M;Valle D'Aosta/Vallee D'Aoste;5
+77;M;Valle D'Aosta/Vallee D'Aoste;8
+78;M;Valle D'Aosta/Vallee D'Aoste;2
+79;M;Valle D'Aosta/Vallee D'Aoste;3
+80;M;Valle D'Aosta/Vallee D'Aoste;3
+81;M;Valle D'Aosta/Vallee D'Aoste;5
+82;M;Valle D'Aosta/Vallee D'Aoste;2
+83;M;Valle D'Aosta/Vallee D'Aoste;1
+84;M;Valle D'Aosta/Vallee D'Aoste;3
+85;M;Valle D'Aosta/Vallee D'Aoste;2
+86;M;Valle D'Aosta/Vallee D'Aoste;3
+87;M;Valle D'Aosta/Vallee D'Aoste;4
+88;M;Valle D'Aosta/Vallee D'Aoste;1
+91;M;Valle D'Aosta/Vallee D'Aoste;1
+0;F;Lombardia                   ;15
+1;F;Lombardia                   ;14
+2;F;Lombardia                   ;20
+3;F;Lombardia                   ;18
+4;F;Lombardia                   ;17
+5;F;Lombardia                   ;18
+6;F;Lombardia                   ;16
+7;F;Lombardia                   ;20
+8;F;Lombardia                   ;10
+9;F;Lombardia                   ;16
+10;F;Lombardia                   ;21
+11;F;Lombardia                   ;22
+12;F;Lombardia                   ;12
+13;F;Lombardia                   ;21
+14;F;Lombardia                   ;17
+15;F;Lombardia                   ;12
+16;F;Lombardia                   ;17
+17;F;Lombardia                   ;11
+18;F;Lombardia                   ;8
+19;F;Lombardia                   ;16
+20;F;Lombardia                   ;17
+21;F;Lombardia                   ;20
+22;F;Lombardia                   ;22
+23;F;Lombardia                   ;17
+24;F;Lombardia                   ;15
+25;F;Lombardia                   ;16
+26;F;Lombardia                   ;33
+27;F;Lombardia                   ;32
+28;F;Lombardia                   ;32
+29;F;Lombardia                   ;41
+30;F;Lombardia                   ;47
+31;F;Lombardia                   ;48
+32;F;Lombardia                   ;61
+33;F;Lombardia                   ;55
+34;F;Lombardia                   ;64
+35;F;Lombardia                   ;75
+36;F;Lombardia                   ;73
+37;F;Lombardia                   ;95
+38;F;Lombardia                   ;103
+39;F;Lombardia                   ;97
+40;F;Lombardia                   ;88
+41;F;Lombardia                   ;94
+42;F;Lombardia                   ;75
+43;F;Lombardia                   ;100
+44;F;Lombardia                   ;98
+45;F;Lombardia                   ;120
+46;F;Lombardia                   ;132
+47;F;Lombardia                   ;109
+48;F;Lombardia                   ;92
+49;F;Lombardia                   ;98
+50;F;Lombardia                   ;103
+51;F;Lombardia                   ;87
+52;F;Lombardia                   ;73
+53;F;Lombardia                   ;86
+54;F;Lombardia                   ;73
+55;F;Lombardia                   ;78
+56;F;Lombardia                   ;77
+57;F;Lombardia                   ;75
+58;F;Lombardia                   ;90
+59;F;Lombardia                   ;70
+60;F;Lombardia                   ;104
+61;F;Lombardia                   ;97
+62;F;Lombardia                   ;83
+63;F;Lombardia                   ;103
+64;F;Lombardia                   ;114
+65;F;Lombardia                   ;113
+66;F;Lombardia                   ;99
+67;F;Lombardia                   ;122
+68;F;Lombardia                   ;124
+69;F;Lombardia                   ;101
+70;F;Lombardia                   ;128
+71;F;Lombardia                   ;135
+72;F;Lombardia                   ;149
+73;F;Lombardia                   ;145
+74;F;Lombardia                   ;131
+75;F;Lombardia                   ;131
+76;F;Lombardia                   ;134
+77;F;Lombardia                   ;123
+78;F;Lombardia                   ;144
+79;F;Lombardia                   ;132
+80;F;Lombardia                   ;139
+81;F;Lombardia                   ;118
+82;F;Lombardia                   ;125
+83;F;Lombardia                   ;118
+84;F;Lombardia                   ;123
+85;F;Lombardia                   ;108
+86;F;Lombardia                   ;98
+87;F;Lombardia                   ;88
+88;F;Lombardia                   ;91
+89;F;Lombardia                   ;70
+90;F;Lombardia                   ;57
+91;F;Lombardia                   ;44
+92;F;Lombardia                   ;28
+93;F;Lombardia                   ;20
+94;F;Lombardia                   ;18
+95;F;Lombardia                   ;15
+96;F;Lombardia                   ;25
+97;F;Lombardia                   ;13
+98;F;Lombardia                   ;10
+99;F;Lombardia                   ;5
+100;F;Lombardia                   ;6
+101;F;Lombardia                   ;5
+102;F;Lombardia                   ;4
+103;F;Lombardia                   ;1
+104;F;Lombardia                   ;2
+107;F;Lombardia                   ;1
+0;M;Lombardia                   ;10
+1;M;Lombardia                   ;15
+2;M;Lombardia                   ;15
+3;M;Lombardia                   ;21
+4;M;Lombardia                   ;24
+5;M;Lombardia                   ;20
+6;M;Lombardia                   ;28
+7;M;Lombardia                   ;20
+8;M;Lombardia                   ;32
+9;M;Lombardia                   ;28
+10;M;Lombardia                   ;21
+11;M;Lombardia                   ;22
+12;M;Lombardia                   ;32
+13;M;Lombardia                   ;15
+14;M;Lombardia                   ;20
+15;M;Lombardia                   ;23
+16;M;Lombardia                   ;18
+17;M;Lombardia                   ;28
+18;M;Lombardia                   ;11
+19;M;Lombardia                   ;26
+20;M;Lombardia                   ;18
+21;M;Lombardia                   ;15
+22;M;Lombardia                   ;16
+23;M;Lombardia                   ;11
+24;M;Lombardia                   ;18
+25;M;Lombardia                   ;22
+26;M;Lombardia                   ;21
+27;M;Lombardia                   ;32
+28;M;Lombardia                   ;33
+29;M;Lombardia                   ;37
+30;M;Lombardia                   ;33
+31;M;Lombardia                   ;43
+32;M;Lombardia                   ;40
+33;M;Lombardia                   ;45
+34;M;Lombardia                   ;53
+35;M;Lombardia                   ;43
+36;M;Lombardia                   ;50
+37;M;Lombardia                   ;49
+38;M;Lombardia                   ;66
+39;M;Lombardia                   ;78
+40;M;Lombardia                   ;70
+41;M;Lombardia                   ;87
+42;M;Lombardia                   ;68
+43;M;Lombardia                   ;81
+44;M;Lombardia                   ;92
+45;M;Lombardia                   ;85
+46;M;Lombardia                   ;92
+47;M;Lombardia                   ;88
+48;M;Lombardia                   ;95
+49;M;Lombardia                   ;72
+50;M;Lombardia                   ;64
+51;M;Lombardia                   ;93
+52;M;Lombardia                   ;66
+53;M;Lombardia                   ;84
+54;M;Lombardia                   ;76
+55;M;Lombardia                   ;72
+56;M;Lombardia                   ;61
+57;M;Lombardia                   ;57
+58;M;Lombardia                   ;73
+59;M;Lombardia                   ;70
+60;M;Lombardia                   ;69
+61;M;Lombardia                   ;52
+62;M;Lombardia                   ;75
+63;M;Lombardia                   ;68
+64;M;Lombardia                   ;80
+65;M;Lombardia                   ;90
+66;M;Lombardia                   ;71
+67;M;Lombardia                   ;74
+68;M;Lombardia                   ;81
+69;M;Lombardia                   ;58
+70;M;Lombardia                   ;67
+71;M;Lombardia                   ;100
+72;M;Lombardia                   ;87
+73;M;Lombardia                   ;79
+74;M;Lombardia                   ;75
+75;M;Lombardia                   ;80
+76;M;Lombardia                   ;63
+77;M;Lombardia                   ;65
+78;M;Lombardia                   ;58
+79;M;Lombardia                   ;59
+80;M;Lombardia                   ;69
+81;M;Lombardia                   ;68
+82;M;Lombardia                   ;60
+83;M;Lombardia                   ;67
+84;M;Lombardia                   ;48
+85;M;Lombardia                   ;45
+86;M;Lombardia                   ;46
+87;M;Lombardia                   ;25
+88;M;Lombardia                   ;24
+89;M;Lombardia                   ;13
+90;M;Lombardia                   ;24
+91;M;Lombardia                   ;17
+92;M;Lombardia                   ;4
+93;M;Lombardia                   ;3
+94;M;Lombardia                   ;3
+95;M;Lombardia                   ;2
+96;M;Lombardia                   ;8
+97;M;Lombardia                   ;2
+98;M;Lombardia                   ;1
+100;M;Lombardia                   ;1
+0;F;Trentino-Alto Adige/Sudtirol;1
+1;F;Trentino-Alto Adige/Sudtirol;1
+2;F;Trentino-Alto Adige/Sudtirol;1
+5;F;Trentino-Alto Adige/Sudtirol;1
+7;F;Trentino-Alto Adige/Sudtirol;1
+8;F;Trentino-Alto Adige/Sudtirol;2
+9;F;Trentino-Alto Adige/Sudtirol;1
+11;F;Trentino-Alto Adige/Sudtirol;2
+12;F;Trentino-Alto Adige/Sudtirol;1
+13;F;Trentino-Alto Adige/Sudtirol;3
+16;F;Trentino-Alto Adige/Sudtirol;1
+17;F;Trentino-Alto Adige/Sudtirol;3
+18;F;Trentino-Alto Adige/Sudtirol;2
+19;F;Trentino-Alto Adige/Sudtirol;1
+20;F;Trentino-Alto Adige/Sudtirol;2
+25;F;Trentino-Alto Adige/Sudtirol;1
+26;F;Trentino-Alto Adige/Sudtirol;2
+27;F;Trentino-Alto Adige/Sudtirol;3
+28;F;Trentino-Alto Adige/Sudtirol;2
+29;F;Trentino-Alto Adige/Sudtirol;5
+30;F;Trentino-Alto Adige/Sudtirol;2
+31;F;Trentino-Alto Adige/Sudtirol;4
+32;F;Trentino-Alto Adige/Sudtirol;4
+33;F;Trentino-Alto Adige/Sudtirol;4
+34;F;Trentino-Alto Adige/Sudtirol;2
+35;F;Trentino-Alto Adige/Sudtirol;3
+36;F;Trentino-Alto Adige/Sudtirol;2
+37;F;Trentino-Alto Adige/Sudtirol;5
+38;F;Trentino-Alto Adige/Sudtirol;5
+39;F;Trentino-Alto Adige/Sudtirol;4
+40;F;Trentino-Alto Adige/Sudtirol;7
+41;F;Trentino-Alto Adige/Sudtirol;3
+42;F;Trentino-Alto Adige/Sudtirol;5
+43;F;Trentino-Alto Adige/Sudtirol;8
+44;F;Trentino-Alto Adige/Sudtirol;5
+45;F;Trentino-Alto Adige/Sudtirol;5
+46;F;Trentino-Alto Adige/Sudtirol;14
+47;F;Trentino-Alto Adige/Sudtirol;7
+48;F;Trentino-Alto Adige/Sudtirol;7
+49;F;Trentino-Alto Adige/Sudtirol;5
+50;F;Trentino-Alto Adige/Sudtirol;13
+51;F;Trentino-Alto Adige/Sudtirol;5
+52;F;Trentino-Alto Adige/Sudtirol;11
+53;F;Trentino-Alto Adige/Sudtirol;13
+54;F;Trentino-Alto Adige/Sudtirol;10
+55;F;Trentino-Alto Adige/Sudtirol;10
+56;F;Trentino-Alto Adige/Sudtirol;8
+57;F;Trentino-Alto Adige/Sudtirol;9
+58;F;Trentino-Alto Adige/Sudtirol;10
+59;F;Trentino-Alto Adige/Sudtirol;9
+60;F;Trentino-Alto Adige/Sudtirol;11
+61;F;Trentino-Alto Adige/Sudtirol;16
+62;F;Trentino-Alto Adige/Sudtirol;11
+63;F;Trentino-Alto Adige/Sudtirol;16
+64;F;Trentino-Alto Adige/Sudtirol;25
+65;F;Trentino-Alto Adige/Sudtirol;16
+66;F;Trentino-Alto Adige/Sudtirol;8
+67;F;Trentino-Alto Adige/Sudtirol;18
+68;F;Trentino-Alto Adige/Sudtirol;23
+69;F;Trentino-Alto Adige/Sudtirol;12
+70;F;Trentino-Alto Adige/Sudtirol;28
+71;F;Trentino-Alto Adige/Sudtirol;27
+72;F;Trentino-Alto Adige/Sudtirol;13
+73;F;Trentino-Alto Adige/Sudtirol;14
+74;F;Trentino-Alto Adige/Sudtirol;20
+75;F;Trentino-Alto Adige/Sudtirol;14
+76;F;Trentino-Alto Adige/Sudtirol;12
+77;F;Trentino-Alto Adige/Sudtirol;14
+78;F;Trentino-Alto Adige/Sudtirol;10
+79;F;Trentino-Alto Adige/Sudtirol;13
+80;F;Trentino-Alto Adige/Sudtirol;22
+81;F;Trentino-Alto Adige/Sudtirol;21
+82;F;Trentino-Alto Adige/Sudtirol;14
+83;F;Trentino-Alto Adige/Sudtirol;13
+84;F;Trentino-Alto Adige/Sudtirol;9
+85;F;Trentino-Alto Adige/Sudtirol;11
+86;F;Trentino-Alto Adige/Sudtirol;11
+87;F;Trentino-Alto Adige/Sudtirol;6
+88;F;Trentino-Alto Adige/Sudtirol;11
+89;F;Trentino-Alto Adige/Sudtirol;7
+90;F;Trentino-Alto Adige/Sudtirol;11
+91;F;Trentino-Alto Adige/Sudtirol;4
+92;F;Trentino-Alto Adige/Sudtirol;2
+93;F;Trentino-Alto Adige/Sudtirol;1
+94;F;Trentino-Alto Adige/Sudtirol;2
+95;F;Trentino-Alto Adige/Sudtirol;1
+97;F;Trentino-Alto Adige/Sudtirol;2
+98;F;Trentino-Alto Adige/Sudtirol;1
+99;F;Trentino-Alto Adige/Sudtirol;2
+102;F;Trentino-Alto Adige/Sudtirol;1
+2;M;Trentino-Alto Adige/Sudtirol;1
+3;M;Trentino-Alto Adige/Sudtirol;1
+4;M;Trentino-Alto Adige/Sudtirol;1
+6;M;Trentino-Alto Adige/Sudtirol;2
+7;M;Trentino-Alto Adige/Sudtirol;1
+8;M;Trentino-Alto Adige/Sudtirol;1
+9;M;Trentino-Alto Adige/Sudtirol;1
+10;M;Trentino-Alto Adige/Sudtirol;1
+12;M;Trentino-Alto Adige/Sudtirol;2
+13;M;Trentino-Alto Adige/Sudtirol;1
+15;M;Trentino-Alto Adige/Sudtirol;1
+16;M;Trentino-Alto Adige/Sudtirol;1
+18;M;Trentino-Alto Adige/Sudtirol;2
+19;M;Trentino-Alto Adige/Sudtirol;2
+20;M;Trentino-Alto Adige/Sudtirol;1
+22;M;Trentino-Alto Adige/Sudtirol;3
+23;M;Trentino-Alto Adige/Sudtirol;1
+24;M;Trentino-Alto Adige/Sudtirol;2
+25;M;Trentino-Alto Adige/Sudtirol;2
+26;M;Trentino-Alto Adige/Sudtirol;1
+27;M;Trentino-Alto Adige/Sudtirol;2
+28;M;Trentino-Alto Adige/Sudtirol;2
+29;M;Trentino-Alto Adige/Sudtirol;3
+30;M;Trentino-Alto Adige/Sudtirol;2
+32;M;Trentino-Alto Adige/Sudtirol;2
+33;M;Trentino-Alto Adige/Sudtirol;3
+34;M;Trentino-Alto Adige/Sudtirol;1
+35;M;Trentino-Alto Adige/Sudtirol;2
+36;M;Trentino-Alto Adige/Sudtirol;2
+38;M;Trentino-Alto Adige/Sudtirol;4
+39;M;Trentino-Alto Adige/Sudtirol;6
+40;M;Trentino-Alto Adige/Sudtirol;10
+41;M;Trentino-Alto Adige/Sudtirol;1
+42;M;Trentino-Alto Adige/Sudtirol;6
+43;M;Trentino-Alto Adige/Sudtirol;2
+44;M;Trentino-Alto Adige/Sudtirol;4
+45;M;Trentino-Alto Adige/Sudtirol;6
+46;M;Trentino-Alto Adige/Sudtirol;7
+47;M;Trentino-Alto Adige/Sudtirol;8
+48;M;Trentino-Alto Adige/Sudtirol;12
+49;M;Trentino-Alto Adige/Sudtirol;5
+50;M;Trentino-Alto Adige/Sudtirol;6
+51;M;Trentino-Alto Adige/Sudtirol;10
+52;M;Trentino-Alto Adige/Sudtirol;4
+53;M;Trentino-Alto Adige/Sudtirol;8
+54;M;Trentino-Alto Adige/Sudtirol;7
+55;M;Trentino-Alto Adige/Sudtirol;8
+56;M;Trentino-Alto Adige/Sudtirol;12
+57;M;Trentino-Alto Adige/Sudtirol;11
+58;M;Trentino-Alto Adige/Sudtirol;8
+59;M;Trentino-Alto Adige/Sudtirol;6
+60;M;Trentino-Alto Adige/Sudtirol;8
+61;M;Trentino-Alto Adige/Sudtirol;13
+62;M;Trentino-Alto Adige/Sudtirol;14
+63;M;Trentino-Alto Adige/Sudtirol;9
+64;M;Trentino-Alto Adige/Sudtirol;23
+65;M;Trentino-Alto Adige/Sudtirol;16
+66;M;Trentino-Alto Adige/Sudtirol;9
+67;M;Trentino-Alto Adige/Sudtirol;9
+68;M;Trentino-Alto Adige/Sudtirol;12
+69;M;Trentino-Alto Adige/Sudtirol;18
+70;M;Trentino-Alto Adige/Sudtirol;14
+71;M;Trentino-Alto Adige/Sudtirol;14
+72;M;Trentino-Alto Adige/Sudtirol;17
+73;M;Trentino-Alto Adige/Sudtirol;10
+74;M;Trentino-Alto Adige/Sudtirol;7
+75;M;Trentino-Alto Adige/Sudtirol;7
+76;M;Trentino-Alto Adige/Sudtirol;6
+77;M;Trentino-Alto Adige/Sudtirol;7
+78;M;Trentino-Alto Adige/Sudtirol;11
+79;M;Trentino-Alto Adige/Sudtirol;8
+80;M;Trentino-Alto Adige/Sudtirol;7
+81;M;Trentino-Alto Adige/Sudtirol;7
+82;M;Trentino-Alto Adige/Sudtirol;7
+83;M;Trentino-Alto Adige/Sudtirol;4
+84;M;Trentino-Alto Adige/Sudtirol;1
+85;M;Trentino-Alto Adige/Sudtirol;4
+86;M;Trentino-Alto Adige/Sudtirol;4
+87;M;Trentino-Alto Adige/Sudtirol;2
+88;M;Trentino-Alto Adige/Sudtirol;5
+89;M;Trentino-Alto Adige/Sudtirol;6
+90;M;Trentino-Alto Adige/Sudtirol;2
+91;M;Trentino-Alto Adige/Sudtirol;2
+92;M;Trentino-Alto Adige/Sudtirol;2
+98;M;Trentino-Alto Adige/Sudtirol;1
+0;F;Veneto                      ;5
+1;F;Veneto                      ;2
+2;F;Veneto                      ;6
+3;F;Veneto                      ;6
+4;F;Veneto                      ;7
+5;F;Veneto                      ;4
+6;F;Veneto                      ;4
+7;F;Veneto                      ;2
+8;F;Veneto                      ;6
+9;F;Veneto                      ;2
+10;F;Veneto                      ;3
+11;F;Veneto                      ;6
+12;F;Veneto                      ;1
+13;F;Veneto                      ;8
+14;F;Veneto                      ;3
+15;F;Veneto                      ;3
+16;F;Veneto                      ;5
+17;F;Veneto                      ;2
+18;F;Veneto                      ;3
+19;F;Veneto                      ;2
+20;F;Veneto                      ;3
+21;F;Veneto                      ;3
+22;F;Veneto                      ;3
+23;F;Veneto                      ;5
+24;F;Veneto                      ;7
+25;F;Veneto                      ;6
+26;F;Veneto                      ;5
+27;F;Veneto                      ;6
+28;F;Veneto                      ;5
+29;F;Veneto                      ;9
+30;F;Veneto                      ;16
+31;F;Veneto                      ;14
+32;F;Veneto                      ;12
+33;F;Veneto                      ;19
+34;F;Veneto                      ;18
+35;F;Veneto                      ;14
+36;F;Veneto                      ;20
+37;F;Veneto                      ;30
+38;F;Veneto                      ;23
+39;F;Veneto                      ;15
+40;F;Veneto                      ;21
+41;F;Veneto                      ;20
+42;F;Veneto                      ;20
+43;F;Veneto                      ;24
+44;F;Veneto                      ;33
+45;F;Veneto                      ;29
+46;F;Veneto                      ;28
+47;F;Veneto                      ;49
+48;F;Veneto                      ;43
+49;F;Veneto                      ;49
+50;F;Veneto                      ;57
+51;F;Veneto                      ;80
+52;F;Veneto                      ;88
+53;F;Veneto                      ;87
+54;F;Veneto                      ;85
+55;F;Veneto                      ;109
+56;F;Veneto                      ;126
+57;F;Veneto                      ;147
+58;F;Veneto                      ;157
+59;F;Veneto                      ;176
+60;F;Veneto                      ;177
+61;F;Veneto                      ;222
+62;F;Veneto                      ;249
+63;F;Veneto                      ;256
+64;F;Veneto                      ;297
+65;F;Veneto                      ;306
+66;F;Veneto                      ;274
+67;F;Veneto                      ;296
+68;F;Veneto                      ;328
+69;F;Veneto                      ;291
+70;F;Veneto                      ;297
+71;F;Veneto                      ;374
+72;F;Veneto                      ;399
+73;F;Veneto                      ;405
+74;F;Veneto                      ;401
+75;F;Veneto                      ;399
+76;F;Veneto                      ;438
+77;F;Veneto                      ;393
+78;F;Veneto                      ;425
+79;F;Veneto                      ;363
+80;F;Veneto                      ;356
+81;F;Veneto                      ;342
+82;F;Veneto                      ;376
+83;F;Veneto                      ;332
+84;F;Veneto                      ;316
+85;F;Veneto                      ;273
+86;F;Veneto                      ;308
+87;F;Veneto                      ;235
+88;F;Veneto                      ;229
+89;F;Veneto                      ;193
+90;F;Veneto                      ;188
+91;F;Veneto                      ;133
+92;F;Veneto                      ;76
+93;F;Veneto                      ;34
+94;F;Veneto                      ;35
+95;F;Veneto                      ;43
+96;F;Veneto                      ;42
+97;F;Veneto                      ;19
+98;F;Veneto                      ;17
+99;F;Veneto                      ;15
+100;F;Veneto                      ;8
+101;F;Veneto                      ;2
+102;F;Veneto                      ;5
+104;F;Veneto                      ;1
+0;M;Veneto                      ;3
+1;M;Veneto                      ;4
+2;M;Veneto                      ;7
+3;M;Veneto                      ;5
+4;M;Veneto                      ;8
+5;M;Veneto                      ;3
+6;M;Veneto                      ;9
+7;M;Veneto                      ;6
+8;M;Veneto                      ;5
+9;M;Veneto                      ;6
+10;M;Veneto                      ;4
+11;M;Veneto                      ;7
+12;M;Veneto                      ;7
+13;M;Veneto                      ;9
+14;M;Veneto                      ;10
+15;M;Veneto                      ;5
+16;M;Veneto                      ;8
+17;M;Veneto                      ;4
+18;M;Veneto                      ;2
+19;M;Veneto                      ;3
+20;M;Veneto                      ;4
+21;M;Veneto                      ;8
+22;M;Veneto                      ;4
+23;M;Veneto                      ;3
+24;M;Veneto                      ;6
+25;M;Veneto                      ;4
+26;M;Veneto                      ;5
+27;M;Veneto                      ;7
+28;M;Veneto                      ;11
+29;M;Veneto                      ;14
+30;M;Veneto                      ;7
+31;M;Veneto                      ;13
+32;M;Veneto                      ;15
+33;M;Veneto                      ;10
+34;M;Veneto                      ;21
+35;M;Veneto                      ;14
+36;M;Veneto                      ;18
+37;M;Veneto                      ;9
+38;M;Veneto                      ;15
+39;M;Veneto                      ;16
+40;M;Veneto                      ;26
+41;M;Veneto                      ;21
+42;M;Veneto                      ;17
+43;M;Veneto                      ;26
+44;M;Veneto                      ;28
+45;M;Veneto                      ;36
+46;M;Veneto                      ;39
+47;M;Veneto                      ;31
+48;M;Veneto                      ;33
+49;M;Veneto                      ;39
+50;M;Veneto                      ;44
+51;M;Veneto                      ;77
+52;M;Veneto                      ;87
+53;M;Veneto                      ;65
+54;M;Veneto                      ;89
+55;M;Veneto                      ;107
+56;M;Veneto                      ;101
+57;M;Veneto                      ;123
+58;M;Veneto                      ;135
+59;M;Veneto                      ;135
+60;M;Veneto                      ;147
+61;M;Veneto                      ;168
+62;M;Veneto                      ;179
+63;M;Veneto                      ;201
+64;M;Veneto                      ;189
+65;M;Veneto                      ;232
+66;M;Veneto                      ;184
+67;M;Veneto                      ;234
+68;M;Veneto                      ;268
+69;M;Veneto                      ;211
+70;M;Veneto                      ;212
+71;M;Veneto                      ;257
+72;M;Veneto                      ;241
+73;M;Veneto                      ;266
+74;M;Veneto                      ;265
+75;M;Veneto                      ;267
+76;M;Veneto                      ;259
+77;M;Veneto                      ;251
+78;M;Veneto                      ;229
+79;M;Veneto                      ;209
+80;M;Veneto                      ;217
+81;M;Veneto                      ;198
+82;M;Veneto                      ;167
+83;M;Veneto                      ;150
+84;M;Veneto                      ;162
+85;M;Veneto                      ;135
+86;M;Veneto                      ;108
+87;M;Veneto                      ;92
+88;M;Veneto                      ;90
+89;M;Veneto                      ;66
+90;M;Veneto                      ;45
+91;M;Veneto                      ;36
+92;M;Veneto                      ;18
+93;M;Veneto                      ;10
+94;M;Veneto                      ;6
+95;M;Veneto                      ;6
+96;M;Veneto                      ;4
+97;M;Veneto                      ;4
+98;M;Veneto                      ;2
+99;M;Veneto                      ;2
+101;M;Veneto                      ;1
+2;F;Friuli-Venezia Giulia       ;3
+3;F;Friuli-Venezia Giulia       ;2
+4;F;Friuli-Venezia Giulia       ;2
+7;F;Friuli-Venezia Giulia       ;3
+8;F;Friuli-Venezia Giulia       ;3
+9;F;Friuli-Venezia Giulia       ;3
+11;F;Friuli-Venezia Giulia       ;1
+12;F;Friuli-Venezia Giulia       ;2
+14;F;Friuli-Venezia Giulia       ;1
+15;F;Friuli-Venezia Giulia       ;1
+16;F;Friuli-Venezia Giulia       ;2
+18;F;Friuli-Venezia Giulia       ;1
+19;F;Friuli-Venezia Giulia       ;2
+20;F;Friuli-Venezia Giulia       ;2
+21;F;Friuli-Venezia Giulia       ;2
+22;F;Friuli-Venezia Giulia       ;3
+23;F;Friuli-Venezia Giulia       ;3
+24;F;Friuli-Venezia Giulia       ;3
+25;F;Friuli-Venezia Giulia       ;2
+26;F;Friuli-Venezia Giulia       ;5
+27;F;Friuli-Venezia Giulia       ;2
+28;F;Friuli-Venezia Giulia       ;4
+29;F;Friuli-Venezia Giulia       ;4
+30;F;Friuli-Venezia Giulia       ;4
+31;F;Friuli-Venezia Giulia       ;3
+32;F;Friuli-Venezia Giulia       ;5
+33;F;Friuli-Venezia Giulia       ;4
+34;F;Friuli-Venezia Giulia       ;4
+35;F;Friuli-Venezia Giulia       ;2
+36;F;Friuli-Venezia Giulia       ;5
+37;F;Friuli-Venezia Giulia       ;13
+38;F;Friuli-Venezia Giulia       ;5
+39;F;Friuli-Venezia Giulia       ;15
+40;F;Friuli-Venezia Giulia       ;11
+41;F;Friuli-Venezia Giulia       ;10
+42;F;Friuli-Venezia Giulia       ;9
+43;F;Friuli-Venezia Giulia       ;7
+44;F;Friuli-Venezia Giulia       ;6
+45;F;Friuli-Venezia Giulia       ;14
+46;F;Friuli-Venezia Giulia       ;11
+47;F;Friuli-Venezia Giulia       ;9
+48;F;Friuli-Venezia Giulia       ;11
+49;F;Friuli-Venezia Giulia       ;9
+50;F;Friuli-Venezia Giulia       ;10
+51;F;Friuli-Venezia Giulia       ;10
+52;F;Friuli-Venezia Giulia       ;17
+53;F;Friuli-Venezia Giulia       ;15
+54;F;Friuli-Venezia Giulia       ;10
+55;F;Friuli-Venezia Giulia       ;22
+56;F;Friuli-Venezia Giulia       ;20
+57;F;Friuli-Venezia Giulia       ;18
+58;F;Friuli-Venezia Giulia       ;28
+59;F;Friuli-Venezia Giulia       ;27
+60;F;Friuli-Venezia Giulia       ;30
+61;F;Friuli-Venezia Giulia       ;24
+62;F;Friuli-Venezia Giulia       ;37
+63;F;Friuli-Venezia Giulia       ;37
+64;F;Friuli-Venezia Giulia       ;45
+65;F;Friuli-Venezia Giulia       ;51
+66;F;Friuli-Venezia Giulia       ;41
+67;F;Friuli-Venezia Giulia       ;32
+68;F;Friuli-Venezia Giulia       ;66
+69;F;Friuli-Venezia Giulia       ;42
+70;F;Friuli-Venezia Giulia       ;45
+71;F;Friuli-Venezia Giulia       ;51
+72;F;Friuli-Venezia Giulia       ;48
+73;F;Friuli-Venezia Giulia       ;46
+74;F;Friuli-Venezia Giulia       ;57
+75;F;Friuli-Venezia Giulia       ;56
+76;F;Friuli-Venezia Giulia       ;41
+77;F;Friuli-Venezia Giulia       ;43
+78;F;Friuli-Venezia Giulia       ;49
+79;F;Friuli-Venezia Giulia       ;50
+80;F;Friuli-Venezia Giulia       ;31
+81;F;Friuli-Venezia Giulia       ;46
+82;F;Friuli-Venezia Giulia       ;52
+83;F;Friuli-Venezia Giulia       ;44
+84;F;Friuli-Venezia Giulia       ;51
+85;F;Friuli-Venezia Giulia       ;38
+86;F;Friuli-Venezia Giulia       ;43
+87;F;Friuli-Venezia Giulia       ;33
+88;F;Friuli-Venezia Giulia       ;34
+89;F;Friuli-Venezia Giulia       ;36
+90;F;Friuli-Venezia Giulia       ;28
+91;F;Friuli-Venezia Giulia       ;30
+92;F;Friuli-Venezia Giulia       ;10
+93;F;Friuli-Venezia Giulia       ;5
+94;F;Friuli-Venezia Giulia       ;11
+95;F;Friuli-Venezia Giulia       ;6
+96;F;Friuli-Venezia Giulia       ;7
+97;F;Friuli-Venezia Giulia       ;5
+98;F;Friuli-Venezia Giulia       ;6
+99;F;Friuli-Venezia Giulia       ;6
+100;F;Friuli-Venezia Giulia       ;5
+102;F;Friuli-Venezia Giulia       ;2
+1;M;Friuli-Venezia Giulia       ;1
+2;M;Friuli-Venezia Giulia       ;1
+4;M;Friuli-Venezia Giulia       ;2
+6;M;Friuli-Venezia Giulia       ;1
+8;M;Friuli-Venezia Giulia       ;2
+10;M;Friuli-Venezia Giulia       ;2
+11;M;Friuli-Venezia Giulia       ;1
+12;M;Friuli-Venezia Giulia       ;3
+13;M;Friuli-Venezia Giulia       ;1
+14;M;Friuli-Venezia Giulia       ;2
+15;M;Friuli-Venezia Giulia       ;1
+16;M;Friuli-Venezia Giulia       ;2
+17;M;Friuli-Venezia Giulia       ;1
+19;M;Friuli-Venezia Giulia       ;4
+20;M;Friuli-Venezia Giulia       ;2
+21;M;Friuli-Venezia Giulia       ;5
+22;M;Friuli-Venezia Giulia       ;4
+23;M;Friuli-Venezia Giulia       ;3
+24;M;Friuli-Venezia Giulia       ;2
+25;M;Friuli-Venezia Giulia       ;2
+26;M;Friuli-Venezia Giulia       ;3
+27;M;Friuli-Venezia Giulia       ;3
+28;M;Friuli-Venezia Giulia       ;2
+29;M;Friuli-Venezia Giulia       ;4
+30;M;Friuli-Venezia Giulia       ;8
+31;M;Friuli-Venezia Giulia       ;4
+32;M;Friuli-Venezia Giulia       ;1
+33;M;Friuli-Venezia Giulia       ;9
+34;M;Friuli-Venezia Giulia       ;4
+35;M;Friuli-Venezia Giulia       ;3
+36;M;Friuli-Venezia Giulia       ;7
+37;M;Friuli-Venezia Giulia       ;10
+38;M;Friuli-Venezia Giulia       ;11
+39;M;Friuli-Venezia Giulia       ;5
+40;M;Friuli-Venezia Giulia       ;8
+41;M;Friuli-Venezia Giulia       ;10
+42;M;Friuli-Venezia Giulia       ;8
+43;M;Friuli-Venezia Giulia       ;7
+44;M;Friuli-Venezia Giulia       ;9
+45;M;Friuli-Venezia Giulia       ;4
+46;M;Friuli-Venezia Giulia       ;9
+47;M;Friuli-Venezia Giulia       ;13
+48;M;Friuli-Venezia Giulia       ;8
+49;M;Friuli-Venezia Giulia       ;6
+50;M;Friuli-Venezia Giulia       ;10
+51;M;Friuli-Venezia Giulia       ;7
+52;M;Friuli-Venezia Giulia       ;8
+53;M;Friuli-Venezia Giulia       ;17
+54;M;Friuli-Venezia Giulia       ;18
+55;M;Friuli-Venezia Giulia       ;9
+56;M;Friuli-Venezia Giulia       ;10
+57;M;Friuli-Venezia Giulia       ;10
+58;M;Friuli-Venezia Giulia       ;20
+59;M;Friuli-Venezia Giulia       ;26
+60;M;Friuli-Venezia Giulia       ;16
+61;M;Friuli-Venezia Giulia       ;28
+62;M;Friuli-Venezia Giulia       ;24
+63;M;Friuli-Venezia Giulia       ;21
+64;M;Friuli-Venezia Giulia       ;21
+65;M;Friuli-Venezia Giulia       ;30
+66;M;Friuli-Venezia Giulia       ;30
+67;M;Friuli-Venezia Giulia       ;26
+68;M;Friuli-Venezia Giulia       ;34
+69;M;Friuli-Venezia Giulia       ;29
+70;M;Friuli-Venezia Giulia       ;24
+71;M;Friuli-Venezia Giulia       ;38
+72;M;Friuli-Venezia Giulia       ;27
+73;M;Friuli-Venezia Giulia       ;31
+74;M;Friuli-Venezia Giulia       ;22
+75;M;Friuli-Venezia Giulia       ;27
+76;M;Friuli-Venezia Giulia       ;25
+77;M;Friuli-Venezia Giulia       ;24
+78;M;Friuli-Venezia Giulia       ;23
+79;M;Friuli-Venezia Giulia       ;33
+80;M;Friuli-Venezia Giulia       ;22
+81;M;Friuli-Venezia Giulia       ;24
+82;M;Friuli-Venezia Giulia       ;14
+83;M;Friuli-Venezia Giulia       ;14
+84;M;Friuli-Venezia Giulia       ;31
+85;M;Friuli-Venezia Giulia       ;18
+86;M;Friuli-Venezia Giulia       ;18
+87;M;Friuli-Venezia Giulia       ;15
+88;M;Friuli-Venezia Giulia       ;11
+89;M;Friuli-Venezia Giulia       ;14
+90;M;Friuli-Venezia Giulia       ;6
+91;M;Friuli-Venezia Giulia       ;6
+92;M;Friuli-Venezia Giulia       ;1
+93;M;Friuli-Venezia Giulia       ;5
+94;M;Friuli-Venezia Giulia       ;1
+95;M;Friuli-Venezia Giulia       ;3
+96;M;Friuli-Venezia Giulia       ;2
+99;M;Friuli-Venezia Giulia       ;1
+103;M;Friuli-Venezia Giulia       ;1
+0;F;Liguria                     ;3
+1;F;Liguria                     ;6
+2;F;Liguria                     ;5
+3;F;Liguria                     ;10
+4;F;Liguria                     ;12
+5;F;Liguria                     ;14
+6;F;Liguria                     ;6
+7;F;Liguria                     ;9
+8;F;Liguria                     ;10
+9;F;Liguria                     ;11
+10;F;Liguria                     ;3
+11;F;Liguria                     ;9
+12;F;Liguria                     ;9
+13;F;Liguria                     ;8
+14;F;Liguria                     ;10
+15;F;Liguria                     ;8
+16;F;Liguria                     ;9
+17;F;Liguria                     ;8
+18;F;Liguria                     ;6
+19;F;Liguria                     ;5
+20;F;Liguria                     ;11
+21;F;Liguria                     ;9
+22;F;Liguria                     ;12
+23;F;Liguria                     ;12
+24;F;Liguria                     ;11
+25;F;Liguria                     ;11
+26;F;Liguria                     ;26
+27;F;Liguria                     ;15
+28;F;Liguria                     ;26
+29;F;Liguria                     ;28
+30;F;Liguria                     ;28
+31;F;Liguria                     ;33
+32;F;Liguria                     ;37
+33;F;Liguria                     ;33
+34;F;Liguria                     ;32
+35;F;Liguria                     ;41
+36;F;Liguria                     ;37
+37;F;Liguria                     ;61
+38;F;Liguria                     ;50
+39;F;Liguria                     ;66
+40;F;Liguria                     ;65
+41;F;Liguria                     ;64
+42;F;Liguria                     ;56
+43;F;Liguria                     ;51
+44;F;Liguria                     ;61
+45;F;Liguria                     ;60
+46;F;Liguria                     ;59
+47;F;Liguria                     ;63
+48;F;Liguria                     ;71
+49;F;Liguria                     ;45
+50;F;Liguria                     ;55
+51;F;Liguria                     ;57
+52;F;Liguria                     ;48
+53;F;Liguria                     ;42
+54;F;Liguria                     ;42
+55;F;Liguria                     ;29
+56;F;Liguria                     ;47
+57;F;Liguria                     ;42
+58;F;Liguria                     ;55
+59;F;Liguria                     ;37
+60;F;Liguria                     ;44
+61;F;Liguria                     ;46
+62;F;Liguria                     ;42
+63;F;Liguria                     ;51
+64;F;Liguria                     ;61
+65;F;Liguria                     ;55
+66;F;Liguria                     ;32
+67;F;Liguria                     ;48
+68;F;Liguria                     ;48
+69;F;Liguria                     ;63
+70;F;Liguria                     ;72
+71;F;Liguria                     ;79
+72;F;Liguria                     ;56
+73;F;Liguria                     ;70
+74;F;Liguria                     ;64
+75;F;Liguria                     ;61
+76;F;Liguria                     ;42
+77;F;Liguria                     ;70
+78;F;Liguria                     ;57
+79;F;Liguria                     ;52
+80;F;Liguria                     ;50
+81;F;Liguria                     ;57
+82;F;Liguria                     ;48
+83;F;Liguria                     ;42
+84;F;Liguria                     ;51
+85;F;Liguria                     ;30
+86;F;Liguria                     ;38
+87;F;Liguria                     ;36
+88;F;Liguria                     ;23
+89;F;Liguria                     ;30
+90;F;Liguria                     ;25
+91;F;Liguria                     ;26
+92;F;Liguria                     ;12
+93;F;Liguria                     ;16
+94;F;Liguria                     ;10
+95;F;Liguria                     ;4
+96;F;Liguria                     ;9
+97;F;Liguria                     ;6
+98;F;Liguria                     ;2
+99;F;Liguria                     ;4
+100;F;Liguria                     ;1
+103;F;Liguria                     ;1
+105;F;Liguria                     ;1
+0;M;Liguria                     ;6
+1;M;Liguria                     ;9
+2;M;Liguria                     ;8
+3;M;Liguria                     ;7
+4;M;Liguria                     ;13
+5;M;Liguria                     ;6
+6;M;Liguria                     ;11
+7;M;Liguria                     ;10
+8;M;Liguria                     ;6
+9;M;Liguria                     ;16
+10;M;Liguria                     ;7
+11;M;Liguria                     ;11
+12;M;Liguria                     ;8
+13;M;Liguria                     ;6
+14;M;Liguria                     ;5
+15;M;Liguria                     ;4
+16;M;Liguria                     ;12
+17;M;Liguria                     ;6
+18;M;Liguria                     ;5
+19;M;Liguria                     ;16
+20;M;Liguria                     ;9
+21;M;Liguria                     ;9
+22;M;Liguria                     ;8
+23;M;Liguria                     ;16
+24;M;Liguria                     ;16
+25;M;Liguria                     ;16
+26;M;Liguria                     ;21
+27;M;Liguria                     ;24
+28;M;Liguria                     ;30
+29;M;Liguria                     ;25
+30;M;Liguria                     ;23
+31;M;Liguria                     ;33
+32;M;Liguria                     ;32
+33;M;Liguria                     ;28
+34;M;Liguria                     ;41
+35;M;Liguria                     ;36
+36;M;Liguria                     ;40
+37;M;Liguria                     ;52
+38;M;Liguria                     ;54
+39;M;Liguria                     ;42
+40;M;Liguria                     ;68
+41;M;Liguria                     ;67
+42;M;Liguria                     ;61
+43;M;Liguria                     ;62
+44;M;Liguria                     ;49
+45;M;Liguria                     ;35
+46;M;Liguria                     ;71
+47;M;Liguria                     ;63
+48;M;Liguria                     ;76
+49;M;Liguria                     ;59
+50;M;Liguria                     ;38
+51;M;Liguria                     ;33
+52;M;Liguria                     ;45
+53;M;Liguria                     ;54
+54;M;Liguria                     ;38
+55;M;Liguria                     ;30
+56;M;Liguria                     ;41
+57;M;Liguria                     ;38
+58;M;Liguria                     ;29
+59;M;Liguria                     ;35
+60;M;Liguria                     ;46
+61;M;Liguria                     ;39
+62;M;Liguria                     ;46
+63;M;Liguria                     ;51
+64;M;Liguria                     ;44
+65;M;Liguria                     ;55
+66;M;Liguria                     ;39
+67;M;Liguria                     ;39
+68;M;Liguria                     ;40
+69;M;Liguria                     ;50
+70;M;Liguria                     ;59
+71;M;Liguria                     ;56
+72;M;Liguria                     ;47
+73;M;Liguria                     ;49
+74;M;Liguria                     ;50
+75;M;Liguria                     ;41
+76;M;Liguria                     ;41
+77;M;Liguria                     ;38
+78;M;Liguria                     ;35
+79;M;Liguria                     ;42
+80;M;Liguria                     ;38
+81;M;Liguria                     ;39
+82;M;Liguria                     ;29
+83;M;Liguria                     ;19
+84;M;Liguria                     ;20
+85;M;Liguria                     ;27
+86;M;Liguria                     ;16
+87;M;Liguria                     ;10
+88;M;Liguria                     ;10
+89;M;Liguria                     ;12
+90;M;Liguria                     ;5
+91;M;Liguria                     ;2
+92;M;Liguria                     ;3
+95;M;Liguria                     ;2
+96;M;Liguria                     ;5
+97;M;Liguria                     ;1
+1;F;Emilia-Romagna              ;4
+2;F;Emilia-Romagna              ;7
+3;F;Emilia-Romagna              ;5
+4;F;Emilia-Romagna              ;6
+5;F;Emilia-Romagna              ;6
+6;F;Emilia-Romagna              ;6
+7;F;Emilia-Romagna              ;7
+8;F;Emilia-Romagna              ;3
+9;F;Emilia-Romagna              ;6
+10;F;Emilia-Romagna              ;7
+11;F;Emilia-Romagna              ;8
+12;F;Emilia-Romagna              ;9
+13;F;Emilia-Romagna              ;4
+14;F;Emilia-Romagna              ;5
+15;F;Emilia-Romagna              ;3
+16;F;Emilia-Romagna              ;7
+17;F;Emilia-Romagna              ;5
+18;F;Emilia-Romagna              ;6
+19;F;Emilia-Romagna              ;3
+20;F;Emilia-Romagna              ;10
+21;F;Emilia-Romagna              ;2
+22;F;Emilia-Romagna              ;2
+23;F;Emilia-Romagna              ;3
+24;F;Emilia-Romagna              ;3
+25;F;Emilia-Romagna              ;5
+26;F;Emilia-Romagna              ;4
+27;F;Emilia-Romagna              ;8
+28;F;Emilia-Romagna              ;9
+29;F;Emilia-Romagna              ;13
+30;F;Emilia-Romagna              ;16
+31;F;Emilia-Romagna              ;10
+32;F;Emilia-Romagna              ;13
+33;F;Emilia-Romagna              ;14
+34;F;Emilia-Romagna              ;8
+35;F;Emilia-Romagna              ;17
+36;F;Emilia-Romagna              ;11
+37;F;Emilia-Romagna              ;24
+38;F;Emilia-Romagna              ;18
+39;F;Emilia-Romagna              ;15
+40;F;Emilia-Romagna              ;18
+41;F;Emilia-Romagna              ;24
+42;F;Emilia-Romagna              ;24
+43;F;Emilia-Romagna              ;17
+44;F;Emilia-Romagna              ;22
+45;F;Emilia-Romagna              ;28
+46;F;Emilia-Romagna              ;47
+47;F;Emilia-Romagna              ;26
+48;F;Emilia-Romagna              ;30
+49;F;Emilia-Romagna              ;35
+50;F;Emilia-Romagna              ;38
+51;F;Emilia-Romagna              ;37
+52;F;Emilia-Romagna              ;42
+53;F;Emilia-Romagna              ;48
+54;F;Emilia-Romagna              ;52
+55;F;Emilia-Romagna              ;44
+56;F;Emilia-Romagna              ;74
+57;F;Emilia-Romagna              ;72
+58;F;Emilia-Romagna              ;60
+59;F;Emilia-Romagna              ;65
+60;F;Emilia-Romagna              ;77
+61;F;Emilia-Romagna              ;68
+62;F;Emilia-Romagna              ;68
+63;F;Emilia-Romagna              ;104
+64;F;Emilia-Romagna              ;112
+65;F;Emilia-Romagna              ;119
+66;F;Emilia-Romagna              ;105
+67;F;Emilia-Romagna              ;98
+68;F;Emilia-Romagna              ;113
+69;F;Emilia-Romagna              ;109
+70;F;Emilia-Romagna              ;107
+71;F;Emilia-Romagna              ;110
+72;F;Emilia-Romagna              ;108
+73;F;Emilia-Romagna              ;124
+74;F;Emilia-Romagna              ;119
+75;F;Emilia-Romagna              ;127
+76;F;Emilia-Romagna              ;120
+77;F;Emilia-Romagna              ;135
+78;F;Emilia-Romagna              ;115
+79;F;Emilia-Romagna              ;120
+80;F;Emilia-Romagna              ;132
+81;F;Emilia-Romagna              ;123
+82;F;Emilia-Romagna              ;91
+83;F;Emilia-Romagna              ;99
+84;F;Emilia-Romagna              ;86
+85;F;Emilia-Romagna              ;89
+86;F;Emilia-Romagna              ;78
+87;F;Emilia-Romagna              ;72
+88;F;Emilia-Romagna              ;64
+89;F;Emilia-Romagna              ;55
+90;F;Emilia-Romagna              ;58
+91;F;Emilia-Romagna              ;48
+92;F;Emilia-Romagna              ;32
+93;F;Emilia-Romagna              ;15
+94;F;Emilia-Romagna              ;8
+95;F;Emilia-Romagna              ;19
+96;F;Emilia-Romagna              ;10
+97;F;Emilia-Romagna              ;11
+98;F;Emilia-Romagna              ;4
+99;F;Emilia-Romagna              ;7
+100;F;Emilia-Romagna              ;3
+101;F;Emilia-Romagna              ;1
+102;F;Emilia-Romagna              ;1
+103;F;Emilia-Romagna              ;1
+0;M;Emilia-Romagna              ;2
+1;M;Emilia-Romagna              ;6
+2;M;Emilia-Romagna              ;9
+3;M;Emilia-Romagna              ;5
+4;M;Emilia-Romagna              ;4
+5;M;Emilia-Romagna              ;11
+6;M;Emilia-Romagna              ;6
+7;M;Emilia-Romagna              ;9
+8;M;Emilia-Romagna              ;10
+9;M;Emilia-Romagna              ;3
+10;M;Emilia-Romagna              ;9
+11;M;Emilia-Romagna              ;7
+12;M;Emilia-Romagna              ;5
+13;M;Emilia-Romagna              ;3
+14;M;Emilia-Romagna              ;3
+15;M;Emilia-Romagna              ;5
+16;M;Emilia-Romagna              ;5
+17;M;Emilia-Romagna              ;5
+18;M;Emilia-Romagna              ;5
+19;M;Emilia-Romagna              ;3
+20;M;Emilia-Romagna              ;7
+21;M;Emilia-Romagna              ;3
+22;M;Emilia-Romagna              ;7
+23;M;Emilia-Romagna              ;5
+24;M;Emilia-Romagna              ;5
+25;M;Emilia-Romagna              ;4
+26;M;Emilia-Romagna              ;8
+27;M;Emilia-Romagna              ;3
+28;M;Emilia-Romagna              ;4
+29;M;Emilia-Romagna              ;10
+30;M;Emilia-Romagna              ;10
+31;M;Emilia-Romagna              ;11
+32;M;Emilia-Romagna              ;7
+33;M;Emilia-Romagna              ;7
+34;M;Emilia-Romagna              ;12
+35;M;Emilia-Romagna              ;21
+36;M;Emilia-Romagna              ;13
+37;M;Emilia-Romagna              ;24
+38;M;Emilia-Romagna              ;25
+39;M;Emilia-Romagna              ;29
+40;M;Emilia-Romagna              ;24
+41;M;Emilia-Romagna              ;16
+42;M;Emilia-Romagna              ;14
+43;M;Emilia-Romagna              ;20
+44;M;Emilia-Romagna              ;21
+45;M;Emilia-Romagna              ;25
+46;M;Emilia-Romagna              ;35
+47;M;Emilia-Romagna              ;35
+48;M;Emilia-Romagna              ;14
+49;M;Emilia-Romagna              ;29
+50;M;Emilia-Romagna              ;37
+51;M;Emilia-Romagna              ;44
+52;M;Emilia-Romagna              ;50
+53;M;Emilia-Romagna              ;45
+54;M;Emilia-Romagna              ;46
+55;M;Emilia-Romagna              ;52
+56;M;Emilia-Romagna              ;46
+57;M;Emilia-Romagna              ;60
+58;M;Emilia-Romagna              ;54
+59;M;Emilia-Romagna              ;65
+60;M;Emilia-Romagna              ;57
+61;M;Emilia-Romagna              ;76
+62;M;Emilia-Romagna              ;74
+63;M;Emilia-Romagna              ;68
+64;M;Emilia-Romagna              ;89
+65;M;Emilia-Romagna              ;82
+66;M;Emilia-Romagna              ;68
+67;M;Emilia-Romagna              ;95
+68;M;Emilia-Romagna              ;121
+69;M;Emilia-Romagna              ;81
+70;M;Emilia-Romagna              ;76
+71;M;Emilia-Romagna              ;113
+72;M;Emilia-Romagna              ;80
+73;M;Emilia-Romagna              ;94
+74;M;Emilia-Romagna              ;100
+75;M;Emilia-Romagna              ;91
+76;M;Emilia-Romagna              ;93
+77;M;Emilia-Romagna              ;87
+78;M;Emilia-Romagna              ;96
+79;M;Emilia-Romagna              ;70
+80;M;Emilia-Romagna              ;69
+81;M;Emilia-Romagna              ;67
+82;M;Emilia-Romagna              ;77
+83;M;Emilia-Romagna              ;62
+84;M;Emilia-Romagna              ;44
+85;M;Emilia-Romagna              ;48
+86;M;Emilia-Romagna              ;38
+87;M;Emilia-Romagna              ;46
+88;M;Emilia-Romagna              ;37
+89;M;Emilia-Romagna              ;16
+90;M;Emilia-Romagna              ;18
+91;M;Emilia-Romagna              ;23
+92;M;Emilia-Romagna              ;10
+93;M;Emilia-Romagna              ;5
+94;M;Emilia-Romagna              ;3
+95;M;Emilia-Romagna              ;3
+96;M;Emilia-Romagna              ;2
+97;M;Emilia-Romagna              ;3
+98;M;Emilia-Romagna              ;2
+99;M;Emilia-Romagna              ;1
+0;F;Toscana                     ;7
+1;F;Toscana                     ;8
+2;F;Toscana                     ;6
+3;F;Toscana                     ;9
+4;F;Toscana                     ;5
+5;F;Toscana                     ;7
+6;F;Toscana                     ;9
+7;F;Toscana                     ;12
+8;F;Toscana                     ;6
+9;F;Toscana                     ;12
+10;F;Toscana                     ;5
+11;F;Toscana                     ;10
+12;F;Toscana                     ;6
+13;F;Toscana                     ;6
+14;F;Toscana                     ;5
+15;F;Toscana                     ;1
+16;F;Toscana                     ;5
+17;F;Toscana                     ;6
+18;F;Toscana                     ;5
+19;F;Toscana                     ;6
+20;F;Toscana                     ;3
+21;F;Toscana                     ;3
+22;F;Toscana                     ;4
+23;F;Toscana                     ;3
+24;F;Toscana                     ;4
+25;F;Toscana                     ;11
+26;F;Toscana                     ;8
+27;F;Toscana                     ;10
+28;F;Toscana                     ;9
+29;F;Toscana                     ;6
+30;F;Toscana                     ;6
+31;F;Toscana                     ;12
+32;F;Toscana                     ;9
+33;F;Toscana                     ;12
+34;F;Toscana                     ;18
+35;F;Toscana                     ;19
+36;F;Toscana                     ;27
+37;F;Toscana                     ;22
+38;F;Toscana                     ;34
+39;F;Toscana                     ;19
+40;F;Toscana                     ;20
+41;F;Toscana                     ;26
+42;F;Toscana                     ;17
+43;F;Toscana                     ;17
+44;F;Toscana                     ;28
+45;F;Toscana                     ;25
+46;F;Toscana                     ;23
+47;F;Toscana                     ;19
+48;F;Toscana                     ;16
+49;F;Toscana                     ;23
+50;F;Toscana                     ;27
+51;F;Toscana                     ;23
+52;F;Toscana                     ;27
+53;F;Toscana                     ;29
+54;F;Toscana                     ;34
+55;F;Toscana                     ;40
+56;F;Toscana                     ;34
+57;F;Toscana                     ;34
+58;F;Toscana                     ;29
+59;F;Toscana                     ;35
+60;F;Toscana                     ;40
+61;F;Toscana                     ;39
+62;F;Toscana                     ;38
+63;F;Toscana                     ;60
+64;F;Toscana                     ;67
+65;F;Toscana                     ;64
+66;F;Toscana                     ;37
+67;F;Toscana                     ;64
+68;F;Toscana                     ;64
+69;F;Toscana                     ;48
+70;F;Toscana                     ;52
+71;F;Toscana                     ;71
+72;F;Toscana                     ;74
+73;F;Toscana                     ;62
+74;F;Toscana                     ;62
+75;F;Toscana                     ;61
+76;F;Toscana                     ;67
+77;F;Toscana                     ;66
+78;F;Toscana                     ;52
+79;F;Toscana                     ;57
+80;F;Toscana                     ;44
+81;F;Toscana                     ;52
+82;F;Toscana                     ;57
+83;F;Toscana                     ;50
+84;F;Toscana                     ;59
+85;F;Toscana                     ;42
+86;F;Toscana                     ;44
+87;F;Toscana                     ;50
+88;F;Toscana                     ;43
+89;F;Toscana                     ;29
+90;F;Toscana                     ;38
+91;F;Toscana                     ;34
+92;F;Toscana                     ;14
+93;F;Toscana                     ;10
+94;F;Toscana                     ;7
+95;F;Toscana                     ;7
+96;F;Toscana                     ;4
+97;F;Toscana                     ;9
+98;F;Toscana                     ;4
+99;F;Toscana                     ;1
+100;F;Toscana                     ;2
+101;F;Toscana                     ;2
+102;F;Toscana                     ;2
+104;F;Toscana                     ;1
+0;M;Toscana                     ;7
+1;M;Toscana                     ;6
+2;M;Toscana                     ;1
+3;M;Toscana                     ;6
+4;M;Toscana                     ;6
+5;M;Toscana                     ;8
+6;M;Toscana                     ;8
+7;M;Toscana                     ;10
+8;M;Toscana                     ;8
+9;M;Toscana                     ;7
+10;M;Toscana                     ;4
+11;M;Toscana                     ;6
+12;M;Toscana                     ;4
+13;M;Toscana                     ;5
+14;M;Toscana                     ;7
+15;M;Toscana                     ;6
+16;M;Toscana                     ;4
+17;M;Toscana                     ;10
+18;M;Toscana                     ;5
+19;M;Toscana                     ;7
+20;M;Toscana                     ;3
+21;M;Toscana                     ;5
+22;M;Toscana                     ;3
+23;M;Toscana                     ;5
+24;M;Toscana                     ;3
+25;M;Toscana                     ;6
+26;M;Toscana                     ;6
+27;M;Toscana                     ;5
+28;M;Toscana                     ;3
+29;M;Toscana                     ;8
+30;M;Toscana                     ;9
+31;M;Toscana                     ;13
+32;M;Toscana                     ;11
+33;M;Toscana                     ;13
+34;M;Toscana                     ;9
+35;M;Toscana                     ;16
+36;M;Toscana                     ;19
+37;M;Toscana                     ;13
+38;M;Toscana                     ;18
+39;M;Toscana                     ;29
+40;M;Toscana                     ;33
+41;M;Toscana                     ;32
+42;M;Toscana                     ;24
+43;M;Toscana                     ;16
+44;M;Toscana                     ;20
+45;M;Toscana                     ;19
+46;M;Toscana                     ;20
+47;M;Toscana                     ;23
+48;M;Toscana                     ;30
+49;M;Toscana                     ;23
+50;M;Toscana                     ;38
+51;M;Toscana                     ;21
+52;M;Toscana                     ;31
+53;M;Toscana                     ;35
+54;M;Toscana                     ;37
+55;M;Toscana                     ;27
+56;M;Toscana                     ;32
+57;M;Toscana                     ;36
+58;M;Toscana                     ;33
+59;M;Toscana                     ;35
+60;M;Toscana                     ;31
+61;M;Toscana                     ;35
+62;M;Toscana                     ;41
+63;M;Toscana                     ;50
+64;M;Toscana                     ;62
+65;M;Toscana                     ;51
+66;M;Toscana                     ;50
+67;M;Toscana                     ;60
+68;M;Toscana                     ;68
+69;M;Toscana                     ;61
+70;M;Toscana                     ;50
+71;M;Toscana                     ;54
+72;M;Toscana                     ;54
+73;M;Toscana                     ;62
+74;M;Toscana                     ;57
+75;M;Toscana                     ;54
+76;M;Toscana                     ;43
+77;M;Toscana                     ;47
+78;M;Toscana                     ;44
+79;M;Toscana                     ;46
+80;M;Toscana                     ;35
+81;M;Toscana                     ;38
+82;M;Toscana                     ;32
+83;M;Toscana                     ;34
+84;M;Toscana                     ;40
+85;M;Toscana                     ;19
+86;M;Toscana                     ;23
+87;M;Toscana                     ;18
+88;M;Toscana                     ;16
+89;M;Toscana                     ;11
+90;M;Toscana                     ;19
+91;M;Toscana                     ;11
+92;M;Toscana                     ;4
+93;M;Toscana                     ;2
+94;M;Toscana                     ;1
+95;M;Toscana                     ;3
+96;M;Toscana                     ;1
+97;M;Toscana                     ;3
+98;M;Toscana                     ;1
+0;F;Umbria                      ;1
+1;F;Umbria                      ;3
+2;F;Umbria                      ;1
+3;F;Umbria                      ;1
+5;F;Umbria                      ;3
+7;F;Umbria                      ;2
+9;F;Umbria                      ;1
+10;F;Umbria                      ;2
+12;F;Umbria                      ;2
+13;F;Umbria                      ;1
+15;F;Umbria                      ;2
+16;F;Umbria                      ;1
+19;F;Umbria                      ;1
+20;F;Umbria                      ;1
+23;F;Umbria                      ;1
+25;F;Umbria                      ;2
+28;F;Umbria                      ;2
+29;F;Umbria                      ;1
+30;F;Umbria                      ;1
+31;F;Umbria                      ;2
+32;F;Umbria                      ;1
+33;F;Umbria                      ;3
+34;F;Umbria                      ;5
+35;F;Umbria                      ;3
+36;F;Umbria                      ;4
+37;F;Umbria                      ;2
+38;F;Umbria                      ;8
+39;F;Umbria                      ;7
+40;F;Umbria                      ;7
+41;F;Umbria                      ;6
+42;F;Umbria                      ;2
+43;F;Umbria                      ;2
+44;F;Umbria                      ;6
+45;F;Umbria                      ;5
+46;F;Umbria                      ;6
+47;F;Umbria                      ;2
+48;F;Umbria                      ;6
+49;F;Umbria                      ;4
+50;F;Umbria                      ;11
+51;F;Umbria                      ;6
+52;F;Umbria                      ;6
+53;F;Umbria                      ;11
+54;F;Umbria                      ;8
+55;F;Umbria                      ;13
+56;F;Umbria                      ;13
+57;F;Umbria                      ;13
+58;F;Umbria                      ;19
+59;F;Umbria                      ;15
+60;F;Umbria                      ;10
+61;F;Umbria                      ;12
+62;F;Umbria                      ;15
+63;F;Umbria                      ;20
+64;F;Umbria                      ;17
+65;F;Umbria                      ;23
+66;F;Umbria                      ;21
+67;F;Umbria                      ;14
+68;F;Umbria                      ;24
+69;F;Umbria                      ;19
+70;F;Umbria                      ;25
+71;F;Umbria                      ;25
+72;F;Umbria                      ;19
+73;F;Umbria                      ;26
+74;F;Umbria                      ;32
+75;F;Umbria                      ;16
+76;F;Umbria                      ;22
+77;F;Umbria                      ;15
+78;F;Umbria                      ;18
+79;F;Umbria                      ;12
+80;F;Umbria                      ;11
+81;F;Umbria                      ;13
+82;F;Umbria                      ;9
+83;F;Umbria                      ;8
+84;F;Umbria                      ;20
+85;F;Umbria                      ;7
+86;F;Umbria                      ;12
+87;F;Umbria                      ;13
+88;F;Umbria                      ;5
+89;F;Umbria                      ;11
+90;F;Umbria                      ;3
+91;F;Umbria                      ;5
+92;F;Umbria                      ;1
+93;F;Umbria                      ;2
+94;F;Umbria                      ;2
+95;F;Umbria                      ;1
+96;F;Umbria                      ;1
+97;F;Umbria                      ;2
+98;F;Umbria                      ;2
+100;F;Umbria                      ;2
+1;M;Umbria                      ;2
+2;M;Umbria                      ;1
+3;M;Umbria                      ;1
+5;M;Umbria                      ;3
+9;M;Umbria                      ;1
+10;M;Umbria                      ;2
+11;M;Umbria                      ;1
+12;M;Umbria                      ;1
+13;M;Umbria                      ;1
+17;M;Umbria                      ;3
+18;M;Umbria                      ;2
+19;M;Umbria                      ;1
+21;M;Umbria                      ;1
+24;M;Umbria                      ;1
+25;M;Umbria                      ;1
+26;M;Umbria                      ;2
+27;M;Umbria                      ;1
+28;M;Umbria                      ;4
+29;M;Umbria                      ;2
+30;M;Umbria                      ;3
+31;M;Umbria                      ;5
+32;M;Umbria                      ;4
+33;M;Umbria                      ;6
+34;M;Umbria                      ;4
+35;M;Umbria                      ;2
+36;M;Umbria                      ;3
+37;M;Umbria                      ;2
+38;M;Umbria                      ;4
+39;M;Umbria                      ;1
+40;M;Umbria                      ;5
+41;M;Umbria                      ;2
+42;M;Umbria                      ;3
+43;M;Umbria                      ;3
+44;M;Umbria                      ;4
+45;M;Umbria                      ;5
+46;M;Umbria                      ;5
+47;M;Umbria                      ;3
+48;M;Umbria                      ;4
+49;M;Umbria                      ;9
+50;M;Umbria                      ;10
+51;M;Umbria                      ;13
+52;M;Umbria                      ;11
+53;M;Umbria                      ;13
+54;M;Umbria                      ;12
+55;M;Umbria                      ;15
+56;M;Umbria                      ;15
+57;M;Umbria                      ;10
+58;M;Umbria                      ;13
+59;M;Umbria                      ;11
+60;M;Umbria                      ;20
+61;M;Umbria                      ;17
+62;M;Umbria                      ;11
+63;M;Umbria                      ;17
+64;M;Umbria                      ;24
+65;M;Umbria                      ;24
+66;M;Umbria                      ;18
+67;M;Umbria                      ;18
+68;M;Umbria                      ;21
+69;M;Umbria                      ;19
+70;M;Umbria                      ;20
+71;M;Umbria                      ;18
+72;M;Umbria                      ;17
+73;M;Umbria                      ;26
+74;M;Umbria                      ;14
+75;M;Umbria                      ;20
+76;M;Umbria                      ;15
+77;M;Umbria                      ;17
+78;M;Umbria                      ;14
+79;M;Umbria                      ;9
+80;M;Umbria                      ;11
+81;M;Umbria                      ;14
+82;M;Umbria                      ;12
+83;M;Umbria                      ;10
+84;M;Umbria                      ;12
+85;M;Umbria                      ;6
+86;M;Umbria                      ;9
+87;M;Umbria                      ;5
+88;M;Umbria                      ;10
+89;M;Umbria                      ;2
+90;M;Umbria                      ;3
+91;M;Umbria                      ;2
+92;M;Umbria                      ;3
+94;M;Umbria                      ;1
+95;M;Umbria                      ;1
+96;M;Umbria                      ;1
+97;M;Umbria                      ;1
+1;F;Marche                      ;2
+2;F;Marche                      ;3
+3;F;Marche                      ;1
+4;F;Marche                      ;5
+5;F;Marche                      ;1
+6;F;Marche                      ;4
+8;F;Marche                      ;3
+10;F;Marche                      ;1
+11;F;Marche                      ;1
+12;F;Marche                      ;1
+13;F;Marche                      ;1
+14;F;Marche                      ;2
+15;F;Marche                      ;1
+17;F;Marche                      ;3
+19;F;Marche                      ;2
+21;F;Marche                      ;1
+22;F;Marche                      ;1
+23;F;Marche                      ;1
+25;F;Marche                      ;1
+26;F;Marche                      ;2
+27;F;Marche                      ;4
+28;F;Marche                      ;3
+29;F;Marche                      ;5
+30;F;Marche                      ;5
+31;F;Marche                      ;7
+32;F;Marche                      ;6
+33;F;Marche                      ;6
+34;F;Marche                      ;5
+35;F;Marche                      ;5
+36;F;Marche                      ;3
+37;F;Marche                      ;10
+38;F;Marche                      ;6
+39;F;Marche                      ;12
+40;F;Marche                      ;8
+41;F;Marche                      ;8
+42;F;Marche                      ;15
+43;F;Marche                      ;5
+44;F;Marche                      ;10
+45;F;Marche                      ;6
+46;F;Marche                      ;9
+47;F;Marche                      ;10
+48;F;Marche                      ;10
+49;F;Marche                      ;5
+50;F;Marche                      ;11
+51;F;Marche                      ;7
+52;F;Marche                      ;7
+53;F;Marche                      ;9
+54;F;Marche                      ;10
+55;F;Marche                      ;20
+56;F;Marche                      ;12
+57;F;Marche                      ;14
+58;F;Marche                      ;15
+59;F;Marche                      ;19
+60;F;Marche                      ;17
+61;F;Marche                      ;19
+62;F;Marche                      ;12
+63;F;Marche                      ;28
+64;F;Marche                      ;23
+65;F;Marche                      ;25
+66;F;Marche                      ;24
+67;F;Marche                      ;21
+68;F;Marche                      ;41
+69;F;Marche                      ;28
+70;F;Marche                      ;29
+71;F;Marche                      ;30
+72;F;Marche                      ;27
+73;F;Marche                      ;22
+74;F;Marche                      ;37
+75;F;Marche                      ;26
+76;F;Marche                      ;33
+77;F;Marche                      ;28
+78;F;Marche                      ;29
+79;F;Marche                      ;27
+80;F;Marche                      ;33
+81;F;Marche                      ;26
+82;F;Marche                      ;18
+83;F;Marche                      ;22
+84;F;Marche                      ;15
+85;F;Marche                      ;14
+86;F;Marche                      ;16
+87;F;Marche                      ;14
+88;F;Marche                      ;18
+89;F;Marche                      ;11
+90;F;Marche                      ;8
+91;F;Marche                      ;6
+92;F;Marche                      ;7
+93;F;Marche                      ;1
+94;F;Marche                      ;7
+95;F;Marche                      ;2
+96;F;Marche                      ;4
+97;F;Marche                      ;5
+98;F;Marche                      ;1
+101;F;Marche                      ;1
+0;M;Marche                      ;1
+1;M;Marche                      ;3
+3;M;Marche                      ;2
+4;M;Marche                      ;2
+5;M;Marche                      ;3
+7;M;Marche                      ;2
+8;M;Marche                      ;4
+9;M;Marche                      ;2
+10;M;Marche                      ;3
+11;M;Marche                      ;2
+12;M;Marche                      ;3
+13;M;Marche                      ;1
+14;M;Marche                      ;2
+15;M;Marche                      ;3
+17;M;Marche                      ;1
+19;M;Marche                      ;1
+22;M;Marche                      ;1
+24;M;Marche                      ;1
+25;M;Marche                      ;1
+26;M;Marche                      ;1
+29;M;Marche                      ;1
+30;M;Marche                      ;3
+31;M;Marche                      ;3
+32;M;Marche                      ;4
+33;M;Marche                      ;7
+34;M;Marche                      ;3
+35;M;Marche                      ;7
+36;M;Marche                      ;8
+37;M;Marche                      ;7
+38;M;Marche                      ;8
+39;M;Marche                      ;9
+40;M;Marche                      ;5
+41;M;Marche                      ;11
+42;M;Marche                      ;6
+43;M;Marche                      ;9
+44;M;Marche                      ;8
+45;M;Marche                      ;10
+46;M;Marche                      ;6
+47;M;Marche                      ;10
+48;M;Marche                      ;8
+49;M;Marche                      ;13
+50;M;Marche                      ;15
+51;M;Marche                      ;20
+52;M;Marche                      ;15
+53;M;Marche                      ;10
+54;M;Marche                      ;20
+55;M;Marche                      ;13
+56;M;Marche                      ;12
+57;M;Marche                      ;12
+58;M;Marche                      ;11
+59;M;Marche                      ;19
+60;M;Marche                      ;13
+61;M;Marche                      ;15
+62;M;Marche                      ;19
+63;M;Marche                      ;26
+64;M;Marche                      ;30
+65;M;Marche                      ;28
+66;M;Marche                      ;26
+67;M;Marche                      ;28
+68;M;Marche                      ;30
+69;M;Marche                      ;22
+70;M;Marche                      ;30
+71;M;Marche                      ;30
+72;M;Marche                      ;36
+73;M;Marche                      ;34
+74;M;Marche                      ;33
+75;M;Marche                      ;29
+76;M;Marche                      ;25
+77;M;Marche                      ;26
+78;M;Marche                      ;27
+79;M;Marche                      ;20
+80;M;Marche                      ;26
+81;M;Marche                      ;20
+82;M;Marche                      ;15
+83;M;Marche                      ;13
+84;M;Marche                      ;15
+85;M;Marche                      ;13
+86;M;Marche                      ;13
+87;M;Marche                      ;9
+88;M;Marche                      ;3
+89;M;Marche                      ;7
+90;M;Marche                      ;6
+91;M;Marche                      ;1
+92;M;Marche                      ;1
+93;M;Marche                      ;2
+95;M;Marche                      ;1
+98;M;Marche                      ;1
+99;M;Marche                      ;1
+0;F;Lazio                       ;13
+1;F;Lazio                       ;2
+2;F;Lazio                       ;14
+3;F;Lazio                       ;12
+4;F;Lazio                       ;7
+5;F;Lazio                       ;11
+6;F;Lazio                       ;10
+7;F;Lazio                       ;13
+8;F;Lazio                       ;13
+9;F;Lazio                       ;13
+10;F;Lazio                       ;13
+11;F;Lazio                       ;11
+12;F;Lazio                       ;10
+13;F;Lazio                       ;5
+14;F;Lazio                       ;3
+15;F;Lazio                       ;7
+16;F;Lazio                       ;13
+17;F;Lazio                       ;8
+18;F;Lazio                       ;10
+19;F;Lazio                       ;11
+20;F;Lazio                       ;10
+21;F;Lazio                       ;9
+22;F;Lazio                       ;8
+23;F;Lazio                       ;13
+24;F;Lazio                       ;12
+25;F;Lazio                       ;14
+26;F;Lazio                       ;16
+27;F;Lazio                       ;27
+28;F;Lazio                       ;13
+29;F;Lazio                       ;20
+30;F;Lazio                       ;23
+31;F;Lazio                       ;25
+32;F;Lazio                       ;29
+33;F;Lazio                       ;35
+34;F;Lazio                       ;24
+35;F;Lazio                       ;34
+36;F;Lazio                       ;44
+37;F;Lazio                       ;46
+38;F;Lazio                       ;46
+39;F;Lazio                       ;44
+40;F;Lazio                       ;44
+41;F;Lazio                       ;51
+42;F;Lazio                       ;47
+43;F;Lazio                       ;45
+44;F;Lazio                       ;53
+45;F;Lazio                       ;59
+46;F;Lazio                       ;51
+47;F;Lazio                       ;50
+48;F;Lazio                       ;61
+49;F;Lazio                       ;44
+50;F;Lazio                       ;50
+51;F;Lazio                       ;39
+52;F;Lazio                       ;46
+53;F;Lazio                       ;44
+54;F;Lazio                       ;35
+55;F;Lazio                       ;41
+56;F;Lazio                       ;45
+57;F;Lazio                       ;31
+58;F;Lazio                       ;44
+59;F;Lazio                       ;41
+60;F;Lazio                       ;40
+61;F;Lazio                       ;50
+62;F;Lazio                       ;39
+63;F;Lazio                       ;46
+64;F;Lazio                       ;54
+65;F;Lazio                       ;60
+66;F;Lazio                       ;37
+67;F;Lazio                       ;47
+68;F;Lazio                       ;62
+69;F;Lazio                       ;68
+70;F;Lazio                       ;53
+71;F;Lazio                       ;60
+72;F;Lazio                       ;73
+73;F;Lazio                       ;57
+74;F;Lazio                       ;49
+75;F;Lazio                       ;46
+76;F;Lazio                       ;50
+77;F;Lazio                       ;57
+78;F;Lazio                       ;41
+79;F;Lazio                       ;41
+80;F;Lazio                       ;28
+81;F;Lazio                       ;25
+82;F;Lazio                       ;28
+83;F;Lazio                       ;33
+84;F;Lazio                       ;26
+85;F;Lazio                       ;33
+86;F;Lazio                       ;20
+87;F;Lazio                       ;17
+88;F;Lazio                       ;13
+89;F;Lazio                       ;14
+90;F;Lazio                       ;12
+91;F;Lazio                       ;8
+92;F;Lazio                       ;10
+93;F;Lazio                       ;2
+94;F;Lazio                       ;2
+95;F;Lazio                       ;6
+97;F;Lazio                       ;2
+98;F;Lazio                       ;1
+100;F;Lazio                       ;1
+101;F;Lazio                       ;1
+0;M;Lazio                       ;6
+1;M;Lazio                       ;6
+2;M;Lazio                       ;11
+3;M;Lazio                       ;8
+4;M;Lazio                       ;9
+5;M;Lazio                       ;7
+6;M;Lazio                       ;9
+7;M;Lazio                       ;17
+8;M;Lazio                       ;15
+9;M;Lazio                       ;8
+10;M;Lazio                       ;13
+11;M;Lazio                       ;8
+12;M;Lazio                       ;10
+13;M;Lazio                       ;10
+14;M;Lazio                       ;10
+15;M;Lazio                       ;7
+16;M;Lazio                       ;13
+17;M;Lazio                       ;12
+18;M;Lazio                       ;14
+19;M;Lazio                       ;12
+20;M;Lazio                       ;9
+21;M;Lazio                       ;11
+22;M;Lazio                       ;14
+23;M;Lazio                       ;11
+24;M;Lazio                       ;15
+25;M;Lazio                       ;8
+26;M;Lazio                       ;20
+27;M;Lazio                       ;24
+28;M;Lazio                       ;22
+29;M;Lazio                       ;18
+30;M;Lazio                       ;26
+31;M;Lazio                       ;28
+32;M;Lazio                       ;27
+33;M;Lazio                       ;26
+34;M;Lazio                       ;48
+35;M;Lazio                       ;34
+36;M;Lazio                       ;39
+37;M;Lazio                       ;50
+38;M;Lazio                       ;58
+39;M;Lazio                       ;61
+40;M;Lazio                       ;54
+41;M;Lazio                       ;52
+42;M;Lazio                       ;51
+43;M;Lazio                       ;57
+44;M;Lazio                       ;52
+45;M;Lazio                       ;48
+46;M;Lazio                       ;42
+47;M;Lazio                       ;64
+48;M;Lazio                       ;51
+49;M;Lazio                       ;60
+50;M;Lazio                       ;69
+51;M;Lazio                       ;53
+52;M;Lazio                       ;63
+53;M;Lazio                       ;40
+54;M;Lazio                       ;53
+55;M;Lazio                       ;26
+56;M;Lazio                       ;56
+57;M;Lazio                       ;33
+58;M;Lazio                       ;32
+59;M;Lazio                       ;44
+60;M;Lazio                       ;28
+61;M;Lazio                       ;42
+62;M;Lazio                       ;37
+63;M;Lazio                       ;50
+64;M;Lazio                       ;38
+65;M;Lazio                       ;49
+66;M;Lazio                       ;28
+67;M;Lazio                       ;45
+68;M;Lazio                       ;68
+69;M;Lazio                       ;62
+70;M;Lazio                       ;50
+71;M;Lazio                       ;47
+72;M;Lazio                       ;58
+73;M;Lazio                       ;64
+74;M;Lazio                       ;46
+75;M;Lazio                       ;54
+76;M;Lazio                       ;45
+77;M;Lazio                       ;50
+78;M;Lazio                       ;24
+79;M;Lazio                       ;30
+80;M;Lazio                       ;29
+81;M;Lazio                       ;21
+82;M;Lazio                       ;32
+83;M;Lazio                       ;21
+84;M;Lazio                       ;8
+85;M;Lazio                       ;18
+86;M;Lazio                       ;9
+87;M;Lazio                       ;15
+88;M;Lazio                       ;9
+89;M;Lazio                       ;7
+90;M;Lazio                       ;8
+91;M;Lazio                       ;4
+92;M;Lazio                       ;4
+93;M;Lazio                       ;2
+94;M;Lazio                       ;1
+96;M;Lazio                       ;1
+97;M;Lazio                       ;1
+98;M;Lazio                       ;3
+0;F;Abruzzo                     ;1
+1;F;Abruzzo                     ;2
+2;F;Abruzzo                     ;3
+3;F;Abruzzo                     ;1
+4;F;Abruzzo                     ;3
+5;F;Abruzzo                     ;3
+6;F;Abruzzo                     ;5
+7;F;Abruzzo                     ;2
+8;F;Abruzzo                     ;2
+11;F;Abruzzo                     ;3
+12;F;Abruzzo                     ;1
+13;F;Abruzzo                     ;1
+14;F;Abruzzo                     ;1
+15;F;Abruzzo                     ;1
+17;F;Abruzzo                     ;1
+19;F;Abruzzo                     ;2
+20;F;Abruzzo                     ;1
+21;F;Abruzzo                     ;2
+22;F;Abruzzo                     ;2
+23;F;Abruzzo                     ;1
+24;F;Abruzzo                     ;5
+25;F;Abruzzo                     ;2
+26;F;Abruzzo                     ;4
+27;F;Abruzzo                     ;3
+28;F;Abruzzo                     ;7
+29;F;Abruzzo                     ;3
+30;F;Abruzzo                     ;7
+31;F;Abruzzo                     ;11
+32;F;Abruzzo                     ;10
+33;F;Abruzzo                     ;12
+34;F;Abruzzo                     ;11
+35;F;Abruzzo                     ;14
+36;F;Abruzzo                     ;12
+37;F;Abruzzo                     ;15
+38;F;Abruzzo                     ;10
+39;F;Abruzzo                     ;11
+40;F;Abruzzo                     ;11
+41;F;Abruzzo                     ;5
+42;F;Abruzzo                     ;9
+43;F;Abruzzo                     ;9
+44;F;Abruzzo                     ;5
+45;F;Abruzzo                     ;10
+46;F;Abruzzo                     ;19
+47;F;Abruzzo                     ;14
+48;F;Abruzzo                     ;14
+49;F;Abruzzo                     ;20
+50;F;Abruzzo                     ;18
+51;F;Abruzzo                     ;19
+52;F;Abruzzo                     ;26
+53;F;Abruzzo                     ;13
+54;F;Abruzzo                     ;25
+55;F;Abruzzo                     ;33
+56;F;Abruzzo                     ;32
+57;F;Abruzzo                     ;37
+58;F;Abruzzo                     ;15
+59;F;Abruzzo                     ;34
+60;F;Abruzzo                     ;28
+61;F;Abruzzo                     ;36
+62;F;Abruzzo                     ;39
+63;F;Abruzzo                     ;34
+64;F;Abruzzo                     ;51
+65;F;Abruzzo                     ;42
+66;F;Abruzzo                     ;19
+67;F;Abruzzo                     ;39
+68;F;Abruzzo                     ;48
+69;F;Abruzzo                     ;41
+70;F;Abruzzo                     ;40
+71;F;Abruzzo                     ;39
+72;F;Abruzzo                     ;49
+73;F;Abruzzo                     ;24
+74;F;Abruzzo                     ;37
+75;F;Abruzzo                     ;32
+76;F;Abruzzo                     ;33
+77;F;Abruzzo                     ;28
+78;F;Abruzzo                     ;35
+79;F;Abruzzo                     ;29
+80;F;Abruzzo                     ;27
+81;F;Abruzzo                     ;25
+82;F;Abruzzo                     ;28
+83;F;Abruzzo                     ;26
+84;F;Abruzzo                     ;29
+85;F;Abruzzo                     ;33
+86;F;Abruzzo                     ;16
+87;F;Abruzzo                     ;20
+88;F;Abruzzo                     ;12
+89;F;Abruzzo                     ;14
+90;F;Abruzzo                     ;13
+91;F;Abruzzo                     ;9
+92;F;Abruzzo                     ;3
+93;F;Abruzzo                     ;1
+94;F;Abruzzo                     ;3
+95;F;Abruzzo                     ;2
+96;F;Abruzzo                     ;2
+97;F;Abruzzo                     ;2
+3;M;Abruzzo                     ;3
+4;M;Abruzzo                     ;1
+5;M;Abruzzo                     ;1
+7;M;Abruzzo                     ;1
+9;M;Abruzzo                     ;2
+10;M;Abruzzo                     ;1
+11;M;Abruzzo                     ;1
+12;M;Abruzzo                     ;2
+13;M;Abruzzo                     ;1
+14;M;Abruzzo                     ;4
+15;M;Abruzzo                     ;2
+16;M;Abruzzo                     ;1
+17;M;Abruzzo                     ;1
+18;M;Abruzzo                     ;3
+19;M;Abruzzo                     ;1
+20;M;Abruzzo                     ;2
+21;M;Abruzzo                     ;1
+22;M;Abruzzo                     ;3
+23;M;Abruzzo                     ;3
+24;M;Abruzzo                     ;1
+25;M;Abruzzo                     ;4
+26;M;Abruzzo                     ;1
+27;M;Abruzzo                     ;5
+28;M;Abruzzo                     ;11
+29;M;Abruzzo                     ;9
+30;M;Abruzzo                     ;14
+31;M;Abruzzo                     ;11
+32;M;Abruzzo                     ;7
+33;M;Abruzzo                     ;11
+34;M;Abruzzo                     ;12
+35;M;Abruzzo                     ;11
+36;M;Abruzzo                     ;21
+37;M;Abruzzo                     ;7
+38;M;Abruzzo                     ;16
+39;M;Abruzzo                     ;9
+40;M;Abruzzo                     ;14
+41;M;Abruzzo                     ;11
+42;M;Abruzzo                     ;11
+43;M;Abruzzo                     ;13
+44;M;Abruzzo                     ;16
+45;M;Abruzzo                     ;13
+46;M;Abruzzo                     ;14
+47;M;Abruzzo                     ;9
+48;M;Abruzzo                     ;20
+49;M;Abruzzo                     ;16
+50;M;Abruzzo                     ;13
+51;M;Abruzzo                     ;18
+52;M;Abruzzo                     ;20
+53;M;Abruzzo                     ;17
+54;M;Abruzzo                     ;17
+55;M;Abruzzo                     ;18
+56;M;Abruzzo                     ;23
+57;M;Abruzzo                     ;25
+58;M;Abruzzo                     ;27
+59;M;Abruzzo                     ;45
+60;M;Abruzzo                     ;30
+61;M;Abruzzo                     ;34
+62;M;Abruzzo                     ;29
+63;M;Abruzzo                     ;37
+64;M;Abruzzo                     ;44
+65;M;Abruzzo                     ;43
+66;M;Abruzzo                     ;40
+67;M;Abruzzo                     ;40
+68;M;Abruzzo                     ;36
+69;M;Abruzzo                     ;32
+70;M;Abruzzo                     ;36
+71;M;Abruzzo                     ;36
+72;M;Abruzzo                     ;34
+73;M;Abruzzo                     ;25
+74;M;Abruzzo                     ;39
+75;M;Abruzzo                     ;31
+76;M;Abruzzo                     ;27
+77;M;Abruzzo                     ;35
+78;M;Abruzzo                     ;24
+79;M;Abruzzo                     ;18
+80;M;Abruzzo                     ;18
+81;M;Abruzzo                     ;17
+82;M;Abruzzo                     ;20
+83;M;Abruzzo                     ;19
+84;M;Abruzzo                     ;16
+85;M;Abruzzo                     ;10
+86;M;Abruzzo                     ;9
+87;M;Abruzzo                     ;13
+88;M;Abruzzo                     ;7
+89;M;Abruzzo                     ;1
+90;M;Abruzzo                     ;4
+91;M;Abruzzo                     ;3
+92;M;Abruzzo                     ;2
+93;M;Abruzzo                     ;1
+94;M;Abruzzo                     ;1
+95;M;Abruzzo                     ;1
+96;M;Abruzzo                     ;3
+97;M;Abruzzo                     ;2
+99;M;Abruzzo                     ;1
+6;F;Molise                      ;1
+9;F;Molise                      ;1
+11;F;Molise                      ;2
+12;F;Molise                      ;1
+13;F;Molise                      ;1
+16;F;Molise                      ;1
+18;F;Molise                      ;1
+19;F;Molise                      ;2
+20;F;Molise                      ;1
+21;F;Molise                      ;2
+22;F;Molise                      ;3
+23;F;Molise                      ;1
+24;F;Molise                      ;2
+25;F;Molise                      ;1
+26;F;Molise                      ;3
+27;F;Molise                      ;3
+28;F;Molise                      ;5
+29;F;Molise                      ;2
+30;F;Molise                      ;3
+31;F;Molise                      ;1
+32;F;Molise                      ;4
+33;F;Molise                      ;2
+34;F;Molise                      ;4
+35;F;Molise                      ;4
+36;F;Molise                      ;3
+37;F;Molise                      ;4
+38;F;Molise                      ;4
+39;F;Molise                      ;6
+40;F;Molise                      ;6
+41;F;Molise                      ;9
+42;F;Molise                      ;6
+43;F;Molise                      ;4
+44;F;Molise                      ;7
+45;F;Molise                      ;8
+46;F;Molise                      ;5
+47;F;Molise                      ;10
+48;F;Molise                      ;13
+49;F;Molise                      ;7
+50;F;Molise                      ;6
+51;F;Molise                      ;13
+52;F;Molise                      ;13
+53;F;Molise                      ;14
+54;F;Molise                      ;15
+55;F;Molise                      ;7
+56;F;Molise                      ;16
+57;F;Molise                      ;23
+58;F;Molise                      ;26
+59;F;Molise                      ;28
+60;F;Molise                      ;26
+61;F;Molise                      ;22
+62;F;Molise                      ;17
+63;F;Molise                      ;32
+64;F;Molise                      ;22
+65;F;Molise                      ;25
+66;F;Molise                      ;29
+67;F;Molise                      ;24
+68;F;Molise                      ;23
+69;F;Molise                      ;24
+70;F;Molise                      ;23
+71;F;Molise                      ;38
+72;F;Molise                      ;34
+73;F;Molise                      ;21
+74;F;Molise                      ;25
+75;F;Molise                      ;21
+76;F;Molise                      ;29
+77;F;Molise                      ;25
+78;F;Molise                      ;29
+79;F;Molise                      ;23
+80;F;Molise                      ;20
+81;F;Molise                      ;16
+82;F;Molise                      ;19
+83;F;Molise                      ;26
+84;F;Molise                      ;13
+85;F;Molise                      ;16
+86;F;Molise                      ;13
+87;F;Molise                      ;9
+88;F;Molise                      ;7
+89;F;Molise                      ;5
+90;F;Molise                      ;8
+91;F;Molise                      ;3
+92;F;Molise                      ;2
+93;F;Molise                      ;2
+94;F;Molise                      ;1
+96;F;Molise                      ;1
+97;F;Molise                      ;1
+99;F;Molise                      ;1
+100;F;Molise                      ;1
+101;F;Molise                      ;2
+5;M;Molise                      ;2
+8;M;Molise                      ;1
+9;M;Molise                      ;1
+13;M;Molise                      ;1
+15;M;Molise                      ;2
+16;M;Molise                      ;1
+17;M;Molise                      ;1
+18;M;Molise                      ;2
+20;M;Molise                      ;2
+21;M;Molise                      ;1
+22;M;Molise                      ;1
+23;M;Molise                      ;1
+24;M;Molise                      ;2
+25;M;Molise                      ;1
+26;M;Molise                      ;2
+27;M;Molise                      ;2
+28;M;Molise                      ;3
+29;M;Molise                      ;4
+30;M;Molise                      ;5
+31;M;Molise                      ;6
+32;M;Molise                      ;2
+33;M;Molise                      ;3
+34;M;Molise                      ;4
+35;M;Molise                      ;5
+36;M;Molise                      ;8
+37;M;Molise                      ;3
+38;M;Molise                      ;6
+39;M;Molise                      ;5
+40;M;Molise                      ;6
+41;M;Molise                      ;3
+42;M;Molise                      ;4
+43;M;Molise                      ;5
+44;M;Molise                      ;9
+45;M;Molise                      ;9
+46;M;Molise                      ;10
+47;M;Molise                      ;7
+48;M;Molise                      ;9
+49;M;Molise                      ;11
+50;M;Molise                      ;9
+51;M;Molise                      ;11
+52;M;Molise                      ;8
+53;M;Molise                      ;15
+54;M;Molise                      ;13
+55;M;Molise                      ;15
+56;M;Molise                      ;17
+57;M;Molise                      ;16
+58;M;Molise                      ;15
+59;M;Molise                      ;26
+60;M;Molise                      ;19
+61;M;Molise                      ;26
+62;M;Molise                      ;26
+63;M;Molise                      ;24
+64;M;Molise                      ;33
+65;M;Molise                      ;29
+66;M;Molise                      ;24
+67;M;Molise                      ;18
+68;M;Molise                      ;22
+69;M;Molise                      ;20
+70;M;Molise                      ;36
+71;M;Molise                      ;33
+72;M;Molise                      ;17
+73;M;Molise                      ;25
+74;M;Molise                      ;25
+75;M;Molise                      ;20
+76;M;Molise                      ;25
+77;M;Molise                      ;29
+78;M;Molise                      ;13
+79;M;Molise                      ;16
+80;M;Molise                      ;11
+81;M;Molise                      ;10
+82;M;Molise                      ;13
+83;M;Molise                      ;5
+84;M;Molise                      ;11
+85;M;Molise                      ;5
+86;M;Molise                      ;11
+87;M;Molise                      ;7
+88;M;Molise                      ;2
+89;M;Molise                      ;1
+90;M;Molise                      ;9
+91;M;Molise                      ;1
+92;M;Molise                      ;1
+93;M;Molise                      ;2
+94;M;Molise                      ;1
+95;M;Molise                      ;1
+0;F;Campania                    ;10
+1;F;Campania                    ;7
+2;F;Campania                    ;10
+3;F;Campania                    ;15
+4;F;Campania                    ;11
+5;F;Campania                    ;17
+6;F;Campania                    ;15
+7;F;Campania                    ;13
+8;F;Campania                    ;17
+9;F;Campania                    ;9
+10;F;Campania                    ;15
+11;F;Campania                    ;18
+12;F;Campania                    ;20
+13;F;Campania                    ;14
+14;F;Campania                    ;19
+15;F;Campania                    ;17
+16;F;Campania                    ;16
+17;F;Campania                    ;20
+18;F;Campania                    ;22
+19;F;Campania                    ;26
+20;F;Campania                    ;27
+21;F;Campania                    ;29
+22;F;Campania                    ;28
+23;F;Campania                    ;29
+24;F;Campania                    ;33
+25;F;Campania                    ;39
+26;F;Campania                    ;49
+27;F;Campania                    ;60
+28;F;Campania                    ;63
+29;F;Campania                    ;79
+30;F;Campania                    ;61
+31;F;Campania                    ;99
+32;F;Campania                    ;78
+33;F;Campania                    ;103
+34;F;Campania                    ;110
+35;F;Campania                    ;105
+36;F;Campania                    ;126
+37;F;Campania                    ;121
+38;F;Campania                    ;133
+39;F;Campania                    ;147
+40;F;Campania                    ;137
+41;F;Campania                    ;182
+42;F;Campania                    ;176
+43;F;Campania                    ;198
+44;F;Campania                    ;212
+45;F;Campania                    ;206
+46;F;Campania                    ;181
+47;F;Campania                    ;214
+48;F;Campania                    ;234
+49;F;Campania                    ;206
+50;F;Campania                    ;247
+51;F;Campania                    ;259
+52;F;Campania                    ;256
+53;F;Campania                    ;287
+54;F;Campania                    ;303
+55;F;Campania                    ;295
+56;F;Campania                    ;254
+57;F;Campania                    ;288
+58;F;Campania                    ;281
+59;F;Campania                    ;303
+60;F;Campania                    ;320
+61;F;Campania                    ;309
+62;F;Campania                    ;331
+63;F;Campania                    ;390
+64;F;Campania                    ;345
+65;F;Campania                    ;381
+66;F;Campania                    ;324
+67;F;Campania                    ;275
+68;F;Campania                    ;287
+69;F;Campania                    ;273
+70;F;Campania                    ;275
+71;F;Campania                    ;279
+72;F;Campania                    ;284
+73;F;Campania                    ;248
+74;F;Campania                    ;294
+75;F;Campania                    ;229
+76;F;Campania                    ;242
+77;F;Campania                    ;191
+78;F;Campania                    ;199
+79;F;Campania                    ;196
+80;F;Campania                    ;189
+81;F;Campania                    ;168
+82;F;Campania                    ;131
+83;F;Campania                    ;111
+84;F;Campania                    ;120
+85;F;Campania                    ;91
+86;F;Campania                    ;95
+87;F;Campania                    ;85
+88;F;Campania                    ;71
+89;F;Campania                    ;51
+90;F;Campania                    ;58
+91;F;Campania                    ;39
+92;F;Campania                    ;13
+93;F;Campania                    ;19
+94;F;Campania                    ;9
+95;F;Campania                    ;7
+96;F;Campania                    ;7
+97;F;Campania                    ;5
+98;F;Campania                    ;12
+99;F;Campania                    ;3
+100;F;Campania                    ;1
+101;F;Campania                    ;2
+103;F;Campania                    ;1
+104;F;Campania                    ;1
+0;M;Campania                    ;10
+1;M;Campania                    ;9
+2;M;Campania                    ;8
+3;M;Campania                    ;8
+4;M;Campania                    ;13
+5;M;Campania                    ;10
+6;M;Campania                    ;16
+7;M;Campania                    ;15
+8;M;Campania                    ;18
+9;M;Campania                    ;13
+10;M;Campania                    ;16
+11;M;Campania                    ;19
+12;M;Campania                    ;15
+13;M;Campania                    ;18
+14;M;Campania                    ;20
+15;M;Campania                    ;15
+16;M;Campania                    ;17
+17;M;Campania                    ;19
+18;M;Campania                    ;25
+19;M;Campania                    ;23
+20;M;Campania                    ;26
+21;M;Campania                    ;35
+22;M;Campania                    ;34
+23;M;Campania                    ;33
+24;M;Campania                    ;40
+25;M;Campania                    ;47
+26;M;Campania                    ;73
+27;M;Campania                    ;76
+28;M;Campania                    ;90
+29;M;Campania                    ;127
+30;M;Campania                    ;117
+31;M;Campania                    ;123
+32;M;Campania                    ;122
+33;M;Campania                    ;126
+34;M;Campania                    ;130
+35;M;Campania                    ;115
+36;M;Campania                    ;146
+37;M;Campania                    ;152
+38;M;Campania                    ;161
+39;M;Campania                    ;166
+40;M;Campania                    ;161
+41;M;Campania                    ;170
+42;M;Campania                    ;162
+43;M;Campania                    ;219
+44;M;Campania                    ;186
+45;M;Campania                    ;237
+46;M;Campania                    ;228
+47;M;Campania                    ;247
+48;M;Campania                    ;215
+49;M;Campania                    ;229
+50;M;Campania                    ;236
+51;M;Campania                    ;244
+52;M;Campania                    ;246
+53;M;Campania                    ;249
+54;M;Campania                    ;249
+55;M;Campania                    ;240
+56;M;Campania                    ;245
+57;M;Campania                    ;283
+58;M;Campania                    ;279
+59;M;Campania                    ;266
+60;M;Campania                    ;268
+61;M;Campania                    ;299
+62;M;Campania                    ;321
+63;M;Campania                    ;310
+64;M;Campania                    ;317
+65;M;Campania                    ;383
+66;M;Campania                    ;283
+67;M;Campania                    ;249
+68;M;Campania                    ;276
+69;M;Campania                    ;270
+70;M;Campania                    ;234
+71;M;Campania                    ;267
+72;M;Campania                    ;280
+73;M;Campania                    ;238
+74;M;Campania                    ;214
+75;M;Campania                    ;188
+76;M;Campania                    ;197
+77;M;Campania                    ;180
+78;M;Campania                    ;166
+79;M;Campania                    ;138
+80;M;Campania                    ;133
+81;M;Campania                    ;130
+82;M;Campania                    ;119
+83;M;Campania                    ;93
+84;M;Campania                    ;86
+85;M;Campania                    ;61
+86;M;Campania                    ;64
+87;M;Campania                    ;35
+88;M;Campania                    ;43
+89;M;Campania                    ;40
+90;M;Campania                    ;20
+91;M;Campania                    ;27
+92;M;Campania                    ;10
+93;M;Campania                    ;13
+94;M;Campania                    ;5
+95;M;Campania                    ;1
+96;M;Campania                    ;2
+97;M;Campania                    ;2
+98;M;Campania                    ;1
+99;M;Campania                    ;1
+0;F;Puglia                      ;6
+1;F;Puglia                      ;6
+2;F;Puglia                      ;2
+3;F;Puglia                      ;7
+4;F;Puglia                      ;6
+5;F;Puglia                      ;6
+6;F;Puglia                      ;5
+7;F;Puglia                      ;4
+8;F;Puglia                      ;8
+9;F;Puglia                      ;6
+10;F;Puglia                      ;10
+11;F;Puglia                      ;12
+12;F;Puglia                      ;12
+13;F;Puglia                      ;10
+14;F;Puglia                      ;16
+15;F;Puglia                      ;16
+16;F;Puglia                      ;17
+17;F;Puglia                      ;15
+18;F;Puglia                      ;30
+19;F;Puglia                      ;22
+20;F;Puglia                      ;25
+21;F;Puglia                      ;32
+22;F;Puglia                      ;42
+23;F;Puglia                      ;53
+24;F;Puglia                      ;45
+25;F;Puglia                      ;48
+26;F;Puglia                      ;57
+27;F;Puglia                      ;59
+28;F;Puglia                      ;84
+29;F;Puglia                      ;80
+30;F;Puglia                      ;98
+31;F;Puglia                      ;102
+32;F;Puglia                      ;108
+33;F;Puglia                      ;139
+34;F;Puglia                      ;126
+35;F;Puglia                      ;155
+36;F;Puglia                      ;156
+37;F;Puglia                      ;198
+38;F;Puglia                      ;201
+39;F;Puglia                      ;211
+40;F;Puglia                      ;209
+41;F;Puglia                      ;191
+42;F;Puglia                      ;209
+43;F;Puglia                      ;270
+44;F;Puglia                      ;332
+45;F;Puglia                      ;392
+46;F;Puglia                      ;382
+47;F;Puglia                      ;415
+48;F;Puglia                      ;401
+49;F;Puglia                      ;413
+50;F;Puglia                      ;481
+51;F;Puglia                      ;567
+52;F;Puglia                      ;606
+53;F;Puglia                      ;649
+54;F;Puglia                      ;628
+55;F;Puglia                      ;718
+56;F;Puglia                      ;731
+57;F;Puglia                      ;761
+58;F;Puglia                      ;759
+59;F;Puglia                      ;733
+60;F;Puglia                      ;820
+61;F;Puglia                      ;873
+62;F;Puglia                      ;925
+63;F;Puglia                      ;1028
+64;F;Puglia                      ;878
+65;F;Puglia                      ;923
+66;F;Puglia                      ;837
+67;F;Puglia                      ;756
+68;F;Puglia                      ;742
+69;F;Puglia                      ;727
+70;F;Puglia                      ;732
+71;F;Puglia                      ;804
+72;F;Puglia                      ;836
+73;F;Puglia                      ;791
+74;F;Puglia                      ;703
+75;F;Puglia                      ;690
+76;F;Puglia                      ;663
+77;F;Puglia                      ;658
+78;F;Puglia                      ;596
+79;F;Puglia                      ;560
+80;F;Puglia                      ;511
+81;F;Puglia                      ;510
+82;F;Puglia                      ;427
+83;F;Puglia                      ;349
+84;F;Puglia                      ;363
+85;F;Puglia                      ;334
+86;F;Puglia                      ;300
+87;F;Puglia                      ;253
+88;F;Puglia                      ;223
+89;F;Puglia                      ;183
+90;F;Puglia                      ;172
+91;F;Puglia                      ;136
+92;F;Puglia                      ;70
+93;F;Puglia                      ;42
+94;F;Puglia                      ;33
+95;F;Puglia                      ;38
+96;F;Puglia                      ;23
+97;F;Puglia                      ;18
+98;F;Puglia                      ;14
+99;F;Puglia                      ;12
+100;F;Puglia                      ;7
+101;F;Puglia                      ;3
+103;F;Puglia                      ;1
+107;F;Puglia                      ;1
+0;M;Puglia                      ;4
+1;M;Puglia                      ;10
+2;M;Puglia                      ;5
+3;M;Puglia                      ;11
+4;M;Puglia                      ;6
+5;M;Puglia                      ;11
+6;M;Puglia                      ;6
+7;M;Puglia                      ;11
+8;M;Puglia                      ;11
+9;M;Puglia                      ;10
+10;M;Puglia                      ;10
+11;M;Puglia                      ;21
+12;M;Puglia                      ;11
+13;M;Puglia                      ;13
+14;M;Puglia                      ;11
+15;M;Puglia                      ;12
+16;M;Puglia                      ;22
+17;M;Puglia                      ;24
+18;M;Puglia                      ;31
+19;M;Puglia                      ;33
+20;M;Puglia                      ;38
+21;M;Puglia                      ;37
+22;M;Puglia                      ;45
+23;M;Puglia                      ;52
+24;M;Puglia                      ;60
+25;M;Puglia                      ;69
+26;M;Puglia                      ;79
+27;M;Puglia                      ;83
+28;M;Puglia                      ;121
+29;M;Puglia                      ;123
+30;M;Puglia                      ;144
+31;M;Puglia                      ;128
+32;M;Puglia                      ;176
+33;M;Puglia                      ;146
+34;M;Puglia                      ;179
+35;M;Puglia                      ;166
+36;M;Puglia                      ;189
+37;M;Puglia                      ;168
+38;M;Puglia                      ;203
+39;M;Puglia                      ;233
+40;M;Puglia                      ;205
+41;M;Puglia                      ;231
+42;M;Puglia                      ;306
+43;M;Puglia                      ;338
+44;M;Puglia                      ;356
+45;M;Puglia                      ;422
+46;M;Puglia                      ;421
+47;M;Puglia                      ;396
+48;M;Puglia                      ;403
+49;M;Puglia                      ;415
+50;M;Puglia                      ;456
+51;M;Puglia                      ;539
+52;M;Puglia                      ;576
+53;M;Puglia                      ;616
+54;M;Puglia                      ;682
+55;M;Puglia                      ;687
+56;M;Puglia                      ;707
+57;M;Puglia                      ;712
+58;M;Puglia                      ;705
+59;M;Puglia                      ;730
+60;M;Puglia                      ;750
+61;M;Puglia                      ;691
+62;M;Puglia                      ;736
+63;M;Puglia                      ;858
+64;M;Puglia                      ;837
+65;M;Puglia                      ;922
+66;M;Puglia                      ;742
+67;M;Puglia                      ;635
+68;M;Puglia                      ;696
+69;M;Puglia                      ;678
+70;M;Puglia                      ;602
+71;M;Puglia                      ;696
+72;M;Puglia                      ;638
+73;M;Puglia                      ;585
+74;M;Puglia                      ;565
+75;M;Puglia                      ;564
+76;M;Puglia                      ;539
+77;M;Puglia                      ;486
+78;M;Puglia                      ;419
+79;M;Puglia                      ;404
+80;M;Puglia                      ;382
+81;M;Puglia                      ;375
+82;M;Puglia                      ;270
+83;M;Puglia                      ;270
+84;M;Puglia                      ;210
+85;M;Puglia                      ;172
+86;M;Puglia                      ;141
+87;M;Puglia                      ;132
+88;M;Puglia                      ;109
+89;M;Puglia                      ;91
+90;M;Puglia                      ;72
+91;M;Puglia                      ;51
+92;M;Puglia                      ;22
+93;M;Puglia                      ;15
+94;M;Puglia                      ;10
+95;M;Puglia                      ;10
+96;M;Puglia                      ;6
+97;M;Puglia                      ;5
+98;M;Puglia                      ;1
+99;M;Puglia                      ;2
+100;M;Puglia                      ;2
+102;M;Puglia                      ;1
+5;F;Basilicata                  ;2
+6;F;Basilicata                  ;1
+7;F;Basilicata                  ;1
+9;F;Basilicata                  ;2
+10;F;Basilicata                  ;3
+11;F;Basilicata                  ;2
+13;F;Basilicata                  ;2
+14;F;Basilicata                  ;2
+15;F;Basilicata                  ;2
+16;F;Basilicata                  ;3
+17;F;Basilicata                  ;3
+18;F;Basilicata                  ;6
+19;F;Basilicata                  ;2
+20;F;Basilicata                  ;2
+21;F;Basilicata                  ;6
+22;F;Basilicata                  ;6
+23;F;Basilicata                  ;5
+24;F;Basilicata                  ;5
+25;F;Basilicata                  ;7
+26;F;Basilicata                  ;11
+27;F;Basilicata                  ;13
+28;F;Basilicata                  ;9
+29;F;Basilicata                  ;16
+30;F;Basilicata                  ;11
+31;F;Basilicata                  ;15
+32;F;Basilicata                  ;16
+33;F;Basilicata                  ;20
+34;F;Basilicata                  ;15
+35;F;Basilicata                  ;23
+36;F;Basilicata                  ;25
+37;F;Basilicata                  ;33
+38;F;Basilicata                  ;31
+39;F;Basilicata                  ;29
+40;F;Basilicata                  ;41
+41;F;Basilicata                  ;36
+42;F;Basilicata                  ;54
+43;F;Basilicata                  ;68
+44;F;Basilicata                  ;73
+45;F;Basilicata                  ;85
+46;F;Basilicata                  ;97
+47;F;Basilicata                  ;89
+48;F;Basilicata                  ;116
+49;F;Basilicata                  ;109
+50;F;Basilicata                  ;127
+51;F;Basilicata                  ;155
+52;F;Basilicata                  ;176
+53;F;Basilicata                  ;185
+54;F;Basilicata                  ;148
+55;F;Basilicata                  ;200
+56;F;Basilicata                  ;211
+57;F;Basilicata                  ;193
+58;F;Basilicata                  ;186
+59;F;Basilicata                  ;215
+60;F;Basilicata                  ;200
+61;F;Basilicata                  ;232
+62;F;Basilicata                  ;205
+63;F;Basilicata                  ;268
+64;F;Basilicata                  ;201
+65;F;Basilicata                  ;217
+66;F;Basilicata                  ;146
+67;F;Basilicata                  ;162
+68;F;Basilicata                  ;165
+69;F;Basilicata                  ;156
+70;F;Basilicata                  ;142
+71;F;Basilicata                  ;183
+72;F;Basilicata                  ;200
+73;F;Basilicata                  ;181
+74;F;Basilicata                  ;174
+75;F;Basilicata                  ;163
+76;F;Basilicata                  ;163
+77;F;Basilicata                  ;141
+78;F;Basilicata                  ;154
+79;F;Basilicata                  ;122
+80;F;Basilicata                  ;127
+81;F;Basilicata                  ;109
+82;F;Basilicata                  ;105
+83;F;Basilicata                  ;89
+84;F;Basilicata                  ;80
+85;F;Basilicata                  ;82
+86;F;Basilicata                  ;60
+87;F;Basilicata                  ;62
+88;F;Basilicata                  ;44
+89;F;Basilicata                  ;40
+90;F;Basilicata                  ;32
+91;F;Basilicata                  ;26
+92;F;Basilicata                  ;12
+93;F;Basilicata                  ;6
+94;F;Basilicata                  ;6
+95;F;Basilicata                  ;4
+96;F;Basilicata                  ;6
+97;F;Basilicata                  ;3
+98;F;Basilicata                  ;3
+99;F;Basilicata                  ;2
+101;F;Basilicata                  ;1
+1;M;Basilicata                  ;2
+2;M;Basilicata                  ;1
+4;M;Basilicata                  ;1
+5;M;Basilicata                  ;1
+6;M;Basilicata                  ;4
+7;M;Basilicata                  ;3
+8;M;Basilicata                  ;1
+10;M;Basilicata                  ;1
+11;M;Basilicata                  ;3
+12;M;Basilicata                  ;2
+13;M;Basilicata                  ;2
+14;M;Basilicata                  ;2
+15;M;Basilicata                  ;1
+16;M;Basilicata                  ;2
+17;M;Basilicata                  ;5
+18;M;Basilicata                  ;3
+19;M;Basilicata                  ;4
+20;M;Basilicata                  ;3
+21;M;Basilicata                  ;9
+22;M;Basilicata                  ;6
+23;M;Basilicata                  ;13
+24;M;Basilicata                  ;8
+25;M;Basilicata                  ;11
+26;M;Basilicata                  ;10
+27;M;Basilicata                  ;17
+28;M;Basilicata                  ;14
+29;M;Basilicata                  ;18
+30;M;Basilicata                  ;14
+31;M;Basilicata                  ;18
+32;M;Basilicata                  ;12
+33;M;Basilicata                  ;19
+34;M;Basilicata                  ;17
+35;M;Basilicata                  ;21
+36;M;Basilicata                  ;24
+37;M;Basilicata                  ;35
+38;M;Basilicata                  ;28
+39;M;Basilicata                  ;40
+40;M;Basilicata                  ;38
+41;M;Basilicata                  ;45
+42;M;Basilicata                  ;64
+43;M;Basilicata                  ;68
+44;M;Basilicata                  ;70
+45;M;Basilicata                  ;85
+46;M;Basilicata                  ;88
+47;M;Basilicata                  ;96
+48;M;Basilicata                  ;76
+49;M;Basilicata                  ;103
+50;M;Basilicata                  ;127
+51;M;Basilicata                  ;133
+52;M;Basilicata                  ;156
+53;M;Basilicata                  ;144
+54;M;Basilicata                  ;179
+55;M;Basilicata                  ;187
+56;M;Basilicata                  ;169
+57;M;Basilicata                  ;207
+58;M;Basilicata                  ;157
+59;M;Basilicata                  ;181
+60;M;Basilicata                  ;176
+61;M;Basilicata                  ;195
+62;M;Basilicata                  ;206
+63;M;Basilicata                  ;220
+64;M;Basilicata                  ;177
+65;M;Basilicata                  ;200
+66;M;Basilicata                  ;143
+67;M;Basilicata                  ;127
+68;M;Basilicata                  ;125
+69;M;Basilicata                  ;136
+70;M;Basilicata                  ;130
+71;M;Basilicata                  ;154
+72;M;Basilicata                  ;146
+73;M;Basilicata                  ;150
+74;M;Basilicata                  ;135
+75;M;Basilicata                  ;135
+76;M;Basilicata                  ;130
+77;M;Basilicata                  ;120
+78;M;Basilicata                  ;128
+79;M;Basilicata                  ;83
+80;M;Basilicata                  ;95
+81;M;Basilicata                  ;88
+82;M;Basilicata                  ;68
+83;M;Basilicata                  ;48
+84;M;Basilicata                  ;48
+85;M;Basilicata                  ;45
+86;M;Basilicata                  ;35
+87;M;Basilicata                  ;28
+88;M;Basilicata                  ;22
+89;M;Basilicata                  ;20
+90;M;Basilicata                  ;15
+91;M;Basilicata                  ;11
+92;M;Basilicata                  ;4
+93;M;Basilicata                  ;4
+94;M;Basilicata                  ;1
+95;M;Basilicata                  ;1
+96;M;Basilicata                  ;4
+97;M;Basilicata                  ;3
+98;M;Basilicata                  ;2
+100;M;Basilicata                  ;1
+0;F;Calabria                    ;2
+1;F;Calabria                    ;3
+2;F;Calabria                    ;4
+3;F;Calabria                    ;8
+4;F;Calabria                    ;4
+5;F;Calabria                    ;2
+6;F;Calabria                    ;12
+7;F;Calabria                    ;4
+8;F;Calabria                    ;9
+9;F;Calabria                    ;6
+10;F;Calabria                    ;11
+11;F;Calabria                    ;11
+12;F;Calabria                    ;16
+13;F;Calabria                    ;9
+14;F;Calabria                    ;15
+15;F;Calabria                    ;12
+16;F;Calabria                    ;23
+17;F;Calabria                    ;20
+18;F;Calabria                    ;18
+19;F;Calabria                    ;18
+20;F;Calabria                    ;21
+21;F;Calabria                    ;23
+22;F;Calabria                    ;32
+23;F;Calabria                    ;24
+24;F;Calabria                    ;32
+25;F;Calabria                    ;50
+26;F;Calabria                    ;58
+27;F;Calabria                    ;69
+28;F;Calabria                    ;63
+29;F;Calabria                    ;69
+30;F;Calabria                    ;63
+31;F;Calabria                    ;63
+32;F;Calabria                    ;72
+33;F;Calabria                    ;94
+34;F;Calabria                    ;92
+35;F;Calabria                    ;117
+36;F;Calabria                    ;125
+37;F;Calabria                    ;117
+38;F;Calabria                    ;118
+39;F;Calabria                    ;132
+40;F;Calabria                    ;148
+41;F;Calabria                    ;146
+42;F;Calabria                    ;186
+43;F;Calabria                    ;209
+44;F;Calabria                    ;226
+45;F;Calabria                    ;265
+46;F;Calabria                    ;261
+47;F;Calabria                    ;259
+48;F;Calabria                    ;291
+49;F;Calabria                    ;314
+50;F;Calabria                    ;336
+51;F;Calabria                    ;362
+52;F;Calabria                    ;373
+53;F;Calabria                    ;393
+54;F;Calabria                    ;407
+55;F;Calabria                    ;423
+56;F;Calabria                    ;479
+57;F;Calabria                    ;463
+58;F;Calabria                    ;486
+59;F;Calabria                    ;461
+60;F;Calabria                    ;464
+61;F;Calabria                    ;455
+62;F;Calabria                    ;461
+63;F;Calabria                    ;495
+64;F;Calabria                    ;495
+65;F;Calabria                    ;444
+66;F;Calabria                    ;325
+67;F;Calabria                    ;346
+68;F;Calabria                    ;377
+69;F;Calabria                    ;329
+70;F;Calabria                    ;311
+71;F;Calabria                    ;369
+72;F;Calabria                    ;333
+73;F;Calabria                    ;344
+74;F;Calabria                    ;294
+75;F;Calabria                    ;295
+76;F;Calabria                    ;291
+77;F;Calabria                    ;291
+78;F;Calabria                    ;308
+79;F;Calabria                    ;271
+80;F;Calabria                    ;235
+81;F;Calabria                    ;209
+82;F;Calabria                    ;211
+83;F;Calabria                    ;159
+84;F;Calabria                    ;159
+85;F;Calabria                    ;126
+86;F;Calabria                    ;143
+87;F;Calabria                    ;104
+88;F;Calabria                    ;95
+89;F;Calabria                    ;65
+90;F;Calabria                    ;58
+91;F;Calabria                    ;62
+92;F;Calabria                    ;19
+93;F;Calabria                    ;20
+94;F;Calabria                    ;24
+95;F;Calabria                    ;9
+96;F;Calabria                    ;13
+97;F;Calabria                    ;9
+98;F;Calabria                    ;8
+99;F;Calabria                    ;9
+100;F;Calabria                    ;1
+101;F;Calabria                    ;2
+0;M;Calabria                    ;3
+1;M;Calabria                    ;2
+2;M;Calabria                    ;7
+3;M;Calabria                    ;2
+4;M;Calabria                    ;6
+5;M;Calabria                    ;9
+6;M;Calabria                    ;6
+7;M;Calabria                    ;10
+8;M;Calabria                    ;8
+9;M;Calabria                    ;13
+10;M;Calabria                    ;12
+11;M;Calabria                    ;12
+12;M;Calabria                    ;18
+13;M;Calabria                    ;10
+14;M;Calabria                    ;15
+15;M;Calabria                    ;10
+16;M;Calabria                    ;17
+17;M;Calabria                    ;29
+18;M;Calabria                    ;25
+19;M;Calabria                    ;20
+20;M;Calabria                    ;19
+21;M;Calabria                    ;32
+22;M;Calabria                    ;33
+23;M;Calabria                    ;39
+24;M;Calabria                    ;41
+25;M;Calabria                    ;43
+26;M;Calabria                    ;49
+27;M;Calabria                    ;82
+28;M;Calabria                    ;69
+29;M;Calabria                    ;75
+30;M;Calabria                    ;83
+31;M;Calabria                    ;76
+32;M;Calabria                    ;87
+33;M;Calabria                    ;86
+34;M;Calabria                    ;106
+35;M;Calabria                    ;120
+36;M;Calabria                    ;103
+37;M;Calabria                    ;142
+38;M;Calabria                    ;124
+39;M;Calabria                    ;148
+40;M;Calabria                    ;156
+41;M;Calabria                    ;166
+42;M;Calabria                    ;182
+43;M;Calabria                    ;237
+44;M;Calabria                    ;214
+45;M;Calabria                    ;257
+46;M;Calabria                    ;255
+47;M;Calabria                    ;269
+48;M;Calabria                    ;248
+49;M;Calabria                    ;266
+50;M;Calabria                    ;317
+51;M;Calabria                    ;338
+52;M;Calabria                    ;371
+53;M;Calabria                    ;333
+54;M;Calabria                    ;351
+55;M;Calabria                    ;430
+56;M;Calabria                    ;409
+57;M;Calabria                    ;428
+58;M;Calabria                    ;394
+59;M;Calabria                    ;430
+60;M;Calabria                    ;430
+61;M;Calabria                    ;484
+62;M;Calabria                    ;464
+63;M;Calabria                    ;486
+64;M;Calabria                    ;470
+65;M;Calabria                    ;407
+66;M;Calabria                    ;321
+67;M;Calabria                    ;339
+68;M;Calabria                    ;335
+69;M;Calabria                    ;293
+70;M;Calabria                    ;271
+71;M;Calabria                    ;364
+72;M;Calabria                    ;329
+73;M;Calabria                    ;319
+74;M;Calabria                    ;295
+75;M;Calabria                    ;281
+76;M;Calabria                    ;263
+77;M;Calabria                    ;228
+78;M;Calabria                    ;270
+79;M;Calabria                    ;197
+80;M;Calabria                    ;200
+81;M;Calabria                    ;185
+82;M;Calabria                    ;150
+83;M;Calabria                    ;130
+84;M;Calabria                    ;112
+85;M;Calabria                    ;62
+86;M;Calabria                    ;77
+87;M;Calabria                    ;55
+88;M;Calabria                    ;58
+89;M;Calabria                    ;39
+90;M;Calabria                    ;26
+91;M;Calabria                    ;29
+92;M;Calabria                    ;5
+93;M;Calabria                    ;9
+94;M;Calabria                    ;9
+95;M;Calabria                    ;5
+96;M;Calabria                    ;7
+97;M;Calabria                    ;1
+98;M;Calabria                    ;4
+99;M;Calabria                    ;1
+100;M;Calabria                    ;1
+103;M;Calabria                    ;1
+0;F;Sicilia                     ;6
+1;F;Sicilia                     ;10
+2;F;Sicilia                     ;13
+3;F;Sicilia                     ;7
+4;F;Sicilia                     ;8
+5;F;Sicilia                     ;7
+6;F;Sicilia                     ;12
+7;F;Sicilia                     ;15
+8;F;Sicilia                     ;17
+9;F;Sicilia                     ;12
+10;F;Sicilia                     ;15
+11;F;Sicilia                     ;20
+12;F;Sicilia                     ;17
+13;F;Sicilia                     ;13
+14;F;Sicilia                     ;21
+15;F;Sicilia                     ;25
+16;F;Sicilia                     ;21
+17;F;Sicilia                     ;34
+18;F;Sicilia                     ;39
+19;F;Sicilia                     ;38
+20;F;Sicilia                     ;24
+21;F;Sicilia                     ;38
+22;F;Sicilia                     ;35
+23;F;Sicilia                     ;51
+24;F;Sicilia                     ;58
+25;F;Sicilia                     ;60
+26;F;Sicilia                     ;76
+27;F;Sicilia                     ;87
+28;F;Sicilia                     ;97
+29;F;Sicilia                     ;97
+30;F;Sicilia                     ;121
+31;F;Sicilia                     ;92
+32;F;Sicilia                     ;122
+33;F;Sicilia                     ;116
+34;F;Sicilia                     ;122
+35;F;Sicilia                     ;132
+36;F;Sicilia                     ;159
+37;F;Sicilia                     ;159
+38;F;Sicilia                     ;172
+39;F;Sicilia                     ;154
+40;F;Sicilia                     ;185
+41;F;Sicilia                     ;193
+42;F;Sicilia                     ;232
+43;F;Sicilia                     ;295
+44;F;Sicilia                     ;308
+45;F;Sicilia                     ;371
+46;F;Sicilia                     ;353
+47;F;Sicilia                     ;399
+48;F;Sicilia                     ;389
+49;F;Sicilia                     ;432
+50;F;Sicilia                     ;468
+51;F;Sicilia                     ;513
+52;F;Sicilia                     ;496
+53;F;Sicilia                     ;508
+54;F;Sicilia                     ;549
+55;F;Sicilia                     ;531
+56;F;Sicilia                     ;575
+57;F;Sicilia                     ;584
+58;F;Sicilia                     ;580
+59;F;Sicilia                     ;561
+60;F;Sicilia                     ;563
+61;F;Sicilia                     ;655
+62;F;Sicilia                     ;631
+63;F;Sicilia                     ;688
+64;F;Sicilia                     ;669
+65;F;Sicilia                     ;659
+66;F;Sicilia                     ;508
+67;F;Sicilia                     ;509
+68;F;Sicilia                     ;519
+69;F;Sicilia                     ;518
+70;F;Sicilia                     ;494
+71;F;Sicilia                     ;632
+72;F;Sicilia                     ;533
+73;F;Sicilia                     ;509
+74;F;Sicilia                     ;496
+75;F;Sicilia                     ;481
+76;F;Sicilia                     ;482
+77;F;Sicilia                     ;500
+78;F;Sicilia                     ;440
+79;F;Sicilia                     ;389
+80;F;Sicilia                     ;395
+81;F;Sicilia                     ;397
+82;F;Sicilia                     ;273
+83;F;Sicilia                     ;290
+84;F;Sicilia                     ;265
+85;F;Sicilia                     ;237
+86;F;Sicilia                     ;201
+87;F;Sicilia                     ;209
+88;F;Sicilia                     ;165
+89;F;Sicilia                     ;146
+90;F;Sicilia                     ;115
+91;F;Sicilia                     ;98
+92;F;Sicilia                     ;52
+93;F;Sicilia                     ;37
+94;F;Sicilia                     ;21
+95;F;Sicilia                     ;25
+96;F;Sicilia                     ;14
+97;F;Sicilia                     ;15
+98;F;Sicilia                     ;11
+99;F;Sicilia                     ;9
+100;F;Sicilia                     ;6
+101;F;Sicilia                     ;2
+102;F;Sicilia                     ;1
+0;M;Sicilia                     ;9
+1;M;Sicilia                     ;11
+2;M;Sicilia                     ;11
+3;M;Sicilia                     ;9
+4;M;Sicilia                     ;11
+5;M;Sicilia                     ;9
+6;M;Sicilia                     ;16
+7;M;Sicilia                     ;14
+8;M;Sicilia                     ;10
+9;M;Sicilia                     ;12
+10;M;Sicilia                     ;15
+11;M;Sicilia                     ;13
+12;M;Sicilia                     ;18
+13;M;Sicilia                     ;23
+14;M;Sicilia                     ;22
+15;M;Sicilia                     ;21
+16;M;Sicilia                     ;19
+17;M;Sicilia                     ;16
+18;M;Sicilia                     ;22
+19;M;Sicilia                     ;42
+20;M;Sicilia                     ;40
+21;M;Sicilia                     ;32
+22;M;Sicilia                     ;49
+23;M;Sicilia                     ;58
+24;M;Sicilia                     ;57
+25;M;Sicilia                     ;65
+26;M;Sicilia                     ;91
+27;M;Sicilia                     ;83
+28;M;Sicilia                     ;125
+29;M;Sicilia                     ;114
+30;M;Sicilia                     ;139
+31;M;Sicilia                     ;121
+32;M;Sicilia                     ;130
+33;M;Sicilia                     ;150
+34;M;Sicilia                     ;152
+35;M;Sicilia                     ;159
+36;M;Sicilia                     ;152
+37;M;Sicilia                     ;152
+38;M;Sicilia                     ;177
+39;M;Sicilia                     ;219
+40;M;Sicilia                     ;209
+41;M;Sicilia                     ;223
+42;M;Sicilia                     ;286
+43;M;Sicilia                     ;274
+44;M;Sicilia                     ;323
+45;M;Sicilia                     ;389
+46;M;Sicilia                     ;363
+47;M;Sicilia                     ;400
+48;M;Sicilia                     ;417
+49;M;Sicilia                     ;449
+50;M;Sicilia                     ;466
+51;M;Sicilia                     ;496
+52;M;Sicilia                     ;514
+53;M;Sicilia                     ;555
+54;M;Sicilia                     ;589
+55;M;Sicilia                     ;547
+56;M;Sicilia                     ;565
+57;M;Sicilia                     ;568
+58;M;Sicilia                     ;568
+59;M;Sicilia                     ;538
+60;M;Sicilia                     ;571
+61;M;Sicilia                     ;581
+62;M;Sicilia                     ;599
+63;M;Sicilia                     ;640
+64;M;Sicilia                     ;664
+65;M;Sicilia                     ;572
+66;M;Sicilia                     ;484
+67;M;Sicilia                     ;484
+68;M;Sicilia                     ;468
+69;M;Sicilia                     ;447
+70;M;Sicilia                     ;479
+71;M;Sicilia                     ;587
+72;M;Sicilia                     ;494
+73;M;Sicilia                     ;505
+74;M;Sicilia                     ;428
+75;M;Sicilia                     ;419
+76;M;Sicilia                     ;407
+77;M;Sicilia                     ;418
+78;M;Sicilia                     ;370
+79;M;Sicilia                     ;320
+80;M;Sicilia                     ;313
+81;M;Sicilia                     ;309
+82;M;Sicilia                     ;245
+83;M;Sicilia                     ;179
+84;M;Sicilia                     ;180
+85;M;Sicilia                     ;164
+86;M;Sicilia                     ;115
+87;M;Sicilia                     ;100
+88;M;Sicilia                     ;107
+89;M;Sicilia                     ;73
+90;M;Sicilia                     ;58
+91;M;Sicilia                     ;39
+92;M;Sicilia                     ;31
+93;M;Sicilia                     ;16
+94;M;Sicilia                     ;16
+95;M;Sicilia                     ;11
+96;M;Sicilia                     ;5
+97;M;Sicilia                     ;4
+98;M;Sicilia                     ;2
+102;M;Sicilia                     ;1
+0;F;Sardegna                    ;3
+1;F;Sardegna                    ;2
+2;F;Sardegna                    ;2
+3;F;Sardegna                    ;6
+4;F;Sardegna                    ;4
+6;F;Sardegna                    ;4
+8;F;Sardegna                    ;1
+9;F;Sardegna                    ;2
+10;F;Sardegna                    ;1
+11;F;Sardegna                    ;3
+12;F;Sardegna                    ;3
+13;F;Sardegna                    ;4
+14;F;Sardegna                    ;4
+15;F;Sardegna                    ;3
+16;F;Sardegna                    ;5
+17;F;Sardegna                    ;3
+18;F;Sardegna                    ;6
+19;F;Sardegna                    ;6
+20;F;Sardegna                    ;4
+21;F;Sardegna                    ;4
+22;F;Sardegna                    ;6
+23;F;Sardegna                    ;12
+24;F;Sardegna                    ;10
+25;F;Sardegna                    ;11
+26;F;Sardegna                    ;18
+27;F;Sardegna                    ;18
+28;F;Sardegna                    ;16
+29;F;Sardegna                    ;32
+30;F;Sardegna                    ;29
+31;F;Sardegna                    ;26
+32;F;Sardegna                    ;22
+33;F;Sardegna                    ;35
+34;F;Sardegna                    ;33
+35;F;Sardegna                    ;33
+36;F;Sardegna                    ;41
+37;F;Sardegna                    ;37
+38;F;Sardegna                    ;52
+39;F;Sardegna                    ;39
+40;F;Sardegna                    ;51
+41;F;Sardegna                    ;43
+42;F;Sardegna                    ;45
+43;F;Sardegna                    ;48
+44;F;Sardegna                    ;48
+45;F;Sardegna                    ;59
+46;F;Sardegna                    ;65
+47;F;Sardegna                    ;77
+48;F;Sardegna                    ;74
+49;F;Sardegna                    ;77
+50;F;Sardegna                    ;92
+51;F;Sardegna                    ;122
+52;F;Sardegna                    ;108
+53;F;Sardegna                    ;129
+54;F;Sardegna                    ;126
+55;F;Sardegna                    ;128
+56;F;Sardegna                    ;120
+57;F;Sardegna                    ;163
+58;F;Sardegna                    ;147
+59;F;Sardegna                    ;177
+60;F;Sardegna                    ;164
+61;F;Sardegna                    ;178
+62;F;Sardegna                    ;165
+63;F;Sardegna                    ;168
+64;F;Sardegna                    ;168
+65;F;Sardegna                    ;152
+66;F;Sardegna                    ;142
+67;F;Sardegna                    ;158
+68;F;Sardegna                    ;172
+69;F;Sardegna                    ;155
+70;F;Sardegna                    ;145
+71;F;Sardegna                    ;155
+72;F;Sardegna                    ;138
+73;F;Sardegna                    ;113
+74;F;Sardegna                    ;104
+75;F;Sardegna                    ;123
+76;F;Sardegna                    ;83
+77;F;Sardegna                    ;93
+78;F;Sardegna                    ;86
+79;F;Sardegna                    ;72
+80;F;Sardegna                    ;81
+81;F;Sardegna                    ;58
+82;F;Sardegna                    ;40
+83;F;Sardegna                    ;49
+84;F;Sardegna                    ;43
+85;F;Sardegna                    ;38
+86;F;Sardegna                    ;33
+87;F;Sardegna                    ;34
+88;F;Sardegna                    ;26
+89;F;Sardegna                    ;22
+90;F;Sardegna                    ;19
+91;F;Sardegna                    ;16
+92;F;Sardegna                    ;9
+93;F;Sardegna                    ;11
+94;F;Sardegna                    ;8
+95;F;Sardegna                    ;5
+96;F;Sardegna                    ;1
+97;F;Sardegna                    ;3
+98;F;Sardegna                    ;2
+99;F;Sardegna                    ;1
+100;F;Sardegna                    ;1
+101;F;Sardegna                    ;1
+0;M;Sardegna                    ;2
+1;M;Sardegna                    ;2
+2;M;Sardegna                    ;3
+3;M;Sardegna                    ;1
+4;M;Sardegna                    ;1
+5;M;Sardegna                    ;2
+6;M;Sardegna                    ;2
+7;M;Sardegna                    ;1
+8;M;Sardegna                    ;2
+9;M;Sardegna                    ;1
+10;M;Sardegna                    ;3
+11;M;Sardegna                    ;3
+12;M;Sardegna                    ;4
+13;M;Sardegna                    ;1
+14;M;Sardegna                    ;4
+15;M;Sardegna                    ;4
+16;M;Sardegna                    ;3
+17;M;Sardegna                    ;6
+18;M;Sardegna                    ;6
+19;M;Sardegna                    ;2
+20;M;Sardegna                    ;10
+21;M;Sardegna                    ;7
+22;M;Sardegna                    ;10
+23;M;Sardegna                    ;9
+24;M;Sardegna                    ;9
+25;M;Sardegna                    ;14
+26;M;Sardegna                    ;13
+27;M;Sardegna                    ;19
+28;M;Sardegna                    ;28
+29;M;Sardegna                    ;24
+30;M;Sardegna                    ;30
+31;M;Sardegna                    ;20
+32;M;Sardegna                    ;38
+33;M;Sardegna                    ;32
+34;M;Sardegna                    ;39
+35;M;Sardegna                    ;38
+36;M;Sardegna                    ;39
+37;M;Sardegna                    ;50
+38;M;Sardegna                    ;50
+39;M;Sardegna                    ;50
+40;M;Sardegna                    ;56
+41;M;Sardegna                    ;54
+42;M;Sardegna                    ;43
+43;M;Sardegna                    ;53
+44;M;Sardegna                    ;56
+45;M;Sardegna                    ;77
+46;M;Sardegna                    ;64
+47;M;Sardegna                    ;62
+48;M;Sardegna                    ;65
+49;M;Sardegna                    ;73
+50;M;Sardegna                    ;108
+51;M;Sardegna                    ;95
+52;M;Sardegna                    ;110
+53;M;Sardegna                    ;91
+54;M;Sardegna                    ;119
+55;M;Sardegna                    ;129
+56;M;Sardegna                    ;132
+57;M;Sardegna                    ;123
+58;M;Sardegna                    ;136
+59;M;Sardegna                    ;133
+60;M;Sardegna                    ;126
+61;M;Sardegna                    ;121
+62;M;Sardegna                    ;156
+63;M;Sardegna                    ;151
+64;M;Sardegna                    ;134
+65;M;Sardegna                    ;162
+66;M;Sardegna                    ;151
+67;M;Sardegna                    ;122
+68;M;Sardegna                    ;115
+69;M;Sardegna                    ;129
+70;M;Sardegna                    ;136
+71;M;Sardegna                    ;137
+72;M;Sardegna                    ;132
+73;M;Sardegna                    ;116
+74;M;Sardegna                    ;98
+75;M;Sardegna                    ;90
+76;M;Sardegna                    ;86
+77;M;Sardegna                    ;69
+78;M;Sardegna                    ;75
+79;M;Sardegna                    ;44
+80;M;Sardegna                    ;37
+81;M;Sardegna                    ;48
+82;M;Sardegna                    ;49
+83;M;Sardegna                    ;32
+84;M;Sardegna                    ;33
+85;M;Sardegna                    ;21
+86;M;Sardegna                    ;21
+87;M;Sardegna                    ;16
+88;M;Sardegna                    ;13
+89;M;Sardegna                    ;8
+90;M;Sardegna                    ;6
+91;M;Sardegna                    ;8
+92;M;Sardegna                    ;2
+93;M;Sardegna                    ;4
+94;M;Sardegna                    ;1
+98;M;Sardegna                    ;2
+105;M;Sardegna                    ;1
