@@ -1,0 +1,2 @@
+# Things you might want to change
+options(rpubs.upload.method = "internal")
