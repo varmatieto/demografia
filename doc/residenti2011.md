@@ -17,6 +17,8 @@ Ciascuna osservazione riporta:
 
 - il numero di residenti.
 
+Il file .csv scaricato da web e' stato editato al fine di eliminare un doppio ";;" finale,  presente nelle prime 16 osservazioni.
+
 Le prime osservazioni del database risultano:
 
 
@@ -29,6 +31,12 @@ Le prime osservazioni del database risultano:
 ## 5   3     M Abruzzo          3
 ## 6   4     F Abruzzo          3
 ```
+Al fine di semplificare la rappresentazione dei dati nei grafici si e' approntato un file con i nomi abbreviati delle Regioni ( Abruzzo, Basilicata, Calabria, Campania, EmiliaRomagna, ESTERO, Friuli-VG, Lazio, Liguria, Lombardia, Marche, Molise, Piemonte, Puglia, Sardegna, Sicilia, Toscana, Trentino, Umbria, ValleAosta, Veneto).  
+
+
+
+
+### Elaborazioni
 
 Sono presenti  21 Regioni  (le 20 regioni + chi nato all'estero  ) e l'eta va da 0 a 108 anni.    
 Ci possiamo aspettare che ciascuna Regione abbia al massimo 108 osservazioni sia per  maschi che femmine.     
@@ -36,7 +44,7 @@ Il grafico complessivo delle osservazioni per Regione ci dice che non tutte le R
 
 ![plot of chunk plot1](figure/plot1.png) 
 
-La figura che segue dettaglia per Regione se ci sono piu' anni con femmine o maschi. In generale le femmine sono presenti su piu' anni; solo la Basilicata ha una prevalenza di maschi.
+La figura che segue dettaglia per Regione se ci sono piu' anni con femmine o maschi.     In generale le femmine sono presenti su piu' anni; solo la Basilicata ha una prevalenza di maschi.
 
 
 ![plot of chunk plot2](figure/plot2.png) 
@@ -73,10 +81,6 @@ Inoltre dai 50 anni in avanti la comunita' piu' grande e' quella dei nati in alt
 La medesima informazione viene riportata mostrando il valore che ciascuna delle tre comunita' assume negli anni.
 
 ![plot of chunk plot9](figure/plot9.png) 
-
-
-
-
 
 
 

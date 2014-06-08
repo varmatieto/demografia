@@ -17,6 +17,8 @@ Ciascuna osservazione riporta:
 
 - il numero di residenti.
 
+Il file .csv scaricato da web e' stato editato al fine di eliminare un doppio ";;" finale,  presente nelle prime 16 osservazioni.
+
 Le prime osservazioni del database risultano:
 
 ```{r pres, echo=FALSE, cache=TRUE }
@@ -36,18 +38,26 @@ myregioni <- read.table("~/GitHub/demografia/data/regioni.txt", stringsAsFactors
 
 levels (DT$regione)<-myregioni[,1]
 
+myregions <- myregioni[,1]
 myoss<-21*108+2
 
 head(DT,addrownums=F)
 
 ```
+Al fine di semplificare la rappresentazione dei dati nei grafici si e' approntato un file con i nomi abbreviati delle Regioni ( `r myregions`).  
+
+
+
+
+### Elaborazioni
 
 Sono presenti  21 Regioni  (le 20 regioni + chi nato all'estero  ) e l'eta va da 0 a 108 anni.    
 Ci possiamo aspettare che ciascuna Regione abbia al massimo 108 osservazioni sia per  maschi che femmine.     
 Il grafico complessivo delle osservazioni per Regione ci dice che non tutte le Regioni hanno tutte le eta' e che il numero di osservazioni per sesso e' differente.
 
-```{r plot1, fig.width= 9, echo=FALSE }
+```{r plot1, fig.width= 9, echo=FALSE, fig.height= 10 }
 library (ggplot2)
+
 ggplot(data=DT, aes(x=regione, fill=sesso)) + 
   geom_bar(stat="bin", position=position_dodge() ) +
   coord_flip()  +  
@@ -58,7 +68,7 @@ ggplot(data=DT, aes(x=regione, fill=sesso)) +
 
 ```
 
-La figura che segue dettaglia per Regione se ci sono piu' anni con femmine o maschi. In generale le femmine sono presenti su piu' anni; solo la Basilicata ha una prevalenza di maschi.
+La figura che segue dettaglia per Regione se ci sono piu' anni con femmine o maschi.     In generale le femmine sono presenti su piu' anni; solo la Basilicata ha una prevalenza di maschi.
 
 
 ```{r plot2, fig.width= 8, echo=FALSE,warning=FALSE}
@@ -72,9 +82,10 @@ drgsex <- cbind (rownames(difrgsex), difrgsex)
 
 colnames(drgsex) <- c("regione", "diff_FM")
 
+
 ggplot(data=drgsex, aes(x=regione, y= diff_FM )) + 
-  geom_bar(stat="identity", show_guide = F, fill= "#66CC99") +
-  coord_flip()  +   ylim(-3, 7) +
+  geom_point (show_guide = F, size=5, color= "#FF0000") +
+  coord_flip() + scale_y_continuous(breaks=c(-4,-3, 0,7,8)) +
   ggtitle("differenza n.osservazioni fra sessi") + 
   xlab("Regione") + ylab("Femmine - Maschi") 
 
@@ -181,7 +192,7 @@ DT_li <- subset(DT, regione ==  "Liguria" )
 ggplot(data=DT_li, aes(x=eta, y= nresidenti, fill=sesso)) + 
   geom_bar(stat="identity" ) +
   ggtitle("distribuzione per eta nati in Liguria") + 
-  xlab("eta") + ylab("n. residenti")  
+  xlab("eta") + ylab("n. residenti")   + scale_fill_brewer(palette="Set1")
 
 
 
@@ -243,7 +254,8 @@ DT3tot<-ddply(DT3, .(regione,eta), summarise,
 
 ggplot(data=DT3tot, aes(x=eta, y= qta, color= regione)) + 
   geom_point (size=4) + geom_line() + theme(legend.position = "bottom") + 
-  scale_fill_brewer(palette="Set2") + guides(color=guide_legend(title=NULL))
+  ggtitle("residenti per eta") +   xlab("eta") + ylab("n. residenti ") +
+  scale_fill_brewer(palette="Set2") +   guides(color=guide_legend(title=NULL))
 
 ```
 
@@ -254,13 +266,13 @@ All'eta' di 66 anni pare esistervi un calo di residenti.
 
 
 ```{r plot10, fig.width= 9, echo=FALSE}
-DT6080 <- DT3 [ DT3$eta> 59 & DT3$eta < 81 ,]
+DT6080t <- DT3tot [ DT3tot$eta> 59 & DT3tot$eta < 81 ,]
 
-ggplot(data=DT6080, aes(x=eta, y= nresidenti, fill = regione )) + 
-  geom_bar(stat="identity") +
-  ggtitle("residenti fra 60 ed 80 anni di eta") + 
-  xlab("eta") + ylab("n. residenti ") + theme(legend.position = "bottom") + 
-  scale_fill_brewer(palette="Set2") + guides(fill=guide_legend(title=NULL))
+ggplot(data=DT6080t, aes(x=eta, y= qta, color= regione)) + 
+  geom_point (size=4) + geom_line() + theme(legend.position = "bottom") + 
+  ggtitle("residenti per eta") +   xlab("eta") + ylab("n. residenti ") +
+  scale_fill_brewer(palette="Set2") +   guides(color=guide_legend(title=NULL))
+
 
 ```
 

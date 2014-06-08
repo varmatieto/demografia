@@ -67,6 +67,14 @@ head(drgsex)
 
 colnames(drgsex) <- c("regione", "diff_FM")
 
+
+ggplot(data=drgsex, aes(x=regione, y= diff_FM )) + 
+  geom_point (show_guide = F, size=5, color= "#66CC99") +
+  coord_flip() + scale_y_continuous(breaks=c(-4,-3, 0,7,8)) +
+  ggtitle("differenza n.osservazioni fra sessi") + 
+  xlab("Regione") + ylab("Femmine - Maschi") 
+
+
 ggplot(data=drgsex, aes(x=regione, y= diff_FM )) + 
   geom_bar(stat="identity", show_guide = F, fill= "#FF0000") +
   coord_flip()  +   ylim(-3, 7) +
@@ -320,10 +328,14 @@ ggplot(data=DT_70, aes(x=regione, y= nresidenti, fill = sesso )) +
 DT6080 <- DT3 [ DT3$eta> 60 & DT3$eta < 80 ,]
 str (DT6080)
 
-
-
 ggplot(data=DT6080, aes(x=eta, y= nresidenti, fill = regione )) + 
   geom_bar(stat="identity", show_guide = F) +
   ggtitle("residenti fra 60 ed 80 anni di eta") + 
   xlab("Regione") + ylab(" ") 
 
+DT6080t <- DT3tot [ DT3tot$eta> 59 & DT3tot$eta < 81 ,]
+
+ggplot(data=DT6080t, aes(x=eta, y= qta, color= regione)) + 
+  geom_point (size=4) + geom_line() + theme(legend.position = "bottom") + 
+  ggtitle("residenti per eta") +   xlab("eta") + ylab("n. residenti ") +
+  scale_fill_brewer(palette="Set2") +   guides(color=guide_legend(title=NULL))
