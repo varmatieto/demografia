@@ -1,2 +1,6 @@
 # Things you might want to change
 options(rpubs.upload.method = "internal")
+
+'''{r setoptions, echo=F}
+options(rpubs.upload.method = "internal")
+'''
